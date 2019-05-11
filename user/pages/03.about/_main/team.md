@@ -1,30 +1,37 @@
 ---
 title: Team
 members:
-    - name: Michael Turner
-      image: michael.jpg
+    - name: Noelle Davis
+      image: Noelle.jpg
       title: President
       info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
-    - name: John Smith
-      image: john.jpg
-      title: Programmer
+    - name: Rona Yu
+      image: Rona.jpg
+      title: Co-President
       info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
-    - name: Ashley Hunter
-      image: ashley.jpg
-      title: Human Resources
+    - name: Arjun Zutshi
+      image: Arjun.jpg
+      title: Co-Treasurer
       info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
-    - name: Tim Bird
-      image: tim.jpg
-      title: Designer
+    - name: Sherry Liang
+      image: Sherry.jpg
+      title: Co-Treasurer
+      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      social_twitter: "#"
+      social_facebook: "#"
+      social_feed: "#"
+    - name: Sherry Liang
+      image: Sherry.jpg
+      title: Co-Treasurer
       info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
       social_twitter: "#"
       social_facebook: "#"
