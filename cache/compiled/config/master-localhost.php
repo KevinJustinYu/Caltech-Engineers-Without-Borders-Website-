@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1554270674,
-    'checksum' => 'f5fddf997e7ca2982069c1a8d094ebaa',
+    'timestamp' => 1559532014,
+    'checksum' => '07ae675eecbf621491cb8527691f6efd',
     'files' => [
         'user/config' => [
             'plugins/email' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1553199656
+                'modified' => 1559532008
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -587,7 +587,7 @@ return [
             'salt' => 'jAehmWozxHvJwc'
         ],
         'site' => [
-            'title' => 'Deliver',
+            'title' => 'EWB Caltech',
             'default_lang' => 'en',
             'author' => [
                 'name' => 'John Appleseed',

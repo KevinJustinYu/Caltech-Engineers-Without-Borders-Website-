@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/Users/kevin/Documents/Temporary Documents/engineers_without_borders/MAMP Websites/grav-skeleton-deliver-site/user/config/site.yaml',
-    'modified' => 1553199656,
+    'modified' => 1559532008,
     'data' => [
-        'title' => 'Deliver',
+        'title' => 'EWB Caltech',
         'author' => [
             'name' => 'John Appleseed',
             'email' => 'john@email.com',
