@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Projects
 portfolio:
     - title: Paradigm
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."

@@ -29,9 +29,37 @@ members:
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
-    - name: Sherry Liang
-      image: Sherry.jpg
+    - name: Schuyler Dick
+      image: Schuyler.jpg
       title: Co-Treasurer
+      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      social_twitter: "#"
+      social_facebook: "#"
+      social_feed: "#"
+    - name: Anjali Patil
+      image: Anjali.jpg
+      title: Co-Treasurer
+      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      social_twitter: "#"
+      social_facebook: "#"
+      social_feed: "#"
+    - name: Jillian Reed
+      image: Jillian.jpg
+      title: Co-Treasurer
+      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      social_twitter: "#"
+      social_facebook: "#"
+      social_feed: "#"
+    - name: Ramya
+      image: Ramya.jpg
+      title: Social Media Director
+      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      social_twitter: "#"
+      social_facebook: "#"
+      social_feed: "#"
+    - name: Kevin Yu 
+      image: Kevin.jpg
+      title: Website Director
       info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
       social_twitter: "#"
       social_facebook: "#"
