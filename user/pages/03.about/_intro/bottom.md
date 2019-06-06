@@ -2,12 +2,6 @@
 title: We would like to hear from you
 ---
 
-## We would like to hear from you !
+##Mission Statement 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo ligula, interdum ut lobortis quis, interdum vitae metus. Proin fringilla metus non nulla cursus, sit amet rutrum est pretium.
-
----
-
-Mission Statement | Core Values | Why Choose Us
---- | --- | ---
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. | Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. | Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+The mission of EWB-Caltech is to design and implement sustainable engineering projects that address pressing needs within underprivileged communities. The club aims to utilize the engineering and technical talents of Caltech students and faculty in order to help aid communities in gaining access to basic human needs such as clean drinking water, reliable access to markets, and sanitation facilities. 

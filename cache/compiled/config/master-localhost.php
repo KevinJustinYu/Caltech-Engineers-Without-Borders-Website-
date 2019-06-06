@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1559532014,
-    'checksum' => '07ae675eecbf621491cb8527691f6efd',
+    'timestamp' => 1559536527,
+    'checksum' => '691beb0efe746c3b8187875d38fd24b7',
     'files' => [
         'user/config' => [
             'plugins/email' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1559532008
+                'modified' => 1559532130
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -591,8 +591,8 @@ return [
             'default_lang' => 'en',
             'author' => [
                 'name' => 'John Appleseed',
-                'email' => 'john@email.com',
-                'copyright' => 'Copyright 2013 Deliver. All Rights Reserved.'
+                'email' => 'ewb@caltech.edu',
+                'copyright' => 'Copyright 2019. All Rights Reserved.'
             ],
             'taxonomies' => [
                 0 => 'category',
@@ -626,7 +626,7 @@ return [
                     'icon' => 'facebook'
                 ],
                 2 => [
-                    'url' => 'blog.rss',
+                    'url' => 'https://www.facebook.com/ewbcit',
                     'icon' => 'rss'
                 ]
             ],

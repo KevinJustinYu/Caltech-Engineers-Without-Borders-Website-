@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/Users/kevin/Documents/Temporary Documents/engineers_without_borders/MAMP Websites/grav-skeleton-deliver-site/user/config/site.yaml',
-    'modified' => 1559532008,
+    'modified' => 1559532130,
     'data' => [
         'title' => 'EWB Caltech',
         'author' => [
             'name' => 'John Appleseed',
-            'email' => 'john@email.com',
-            'copyright' => 'Copyright 2013 Deliver. All Rights Reserved.'
+            'email' => 'ewb@caltech.edu',
+            'copyright' => 'Copyright 2019. All Rights Reserved.'
         ],
         'social' => [
             0 => [
@@ -20,7 +20,7 @@ return [
                 'icon' => 'facebook'
             ],
             2 => [
-                'url' => 'blog.rss',
+                'url' => 'https://www.facebook.com/ewbcit',
                 'icon' => 'rss'
             ]
         ],
