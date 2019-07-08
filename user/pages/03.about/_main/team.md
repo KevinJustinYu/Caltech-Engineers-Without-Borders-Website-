@@ -46,14 +46,14 @@ members:
     - name: Jillian Reed
       image: Jillian.jpg
       title: Outreach Director
-      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      info: "Description pending."
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
     - name: Ramya Deshpande
       image: Ramya.jpg
       title: Social Media Director
-      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      info: "Description pending."
       social_twitter: "#"
       social_facebook: "#"
       social_feed: "#"
