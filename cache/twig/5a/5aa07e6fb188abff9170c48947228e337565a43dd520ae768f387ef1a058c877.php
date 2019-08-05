@@ -93,6 +93,6 @@ class __TwigTemplate_01bfd05e45668842be8bf41eb9f9423982d712b56b372d0ad14dab61d77
         </li>
     {% endfor %}
 </ul>  
-", "partials/social.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\partials\\social.html.twig");
+", "partials/social.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\partials\\social.html.twig");
     }
 }

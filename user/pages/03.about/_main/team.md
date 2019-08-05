@@ -4,66 +4,39 @@ members:
     - name: Noelle Davis
       image: Noelle.jpg
       title: Co-President
-      info: "Class of 2020 studying electrical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Electrical Engineering '20"
     - name: Rona Yu
       image: Rona.jpg
       title: Co-President
-      info: "Class of 2020 studying computer science."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Computer Science '20."
     - name: Arjun Zutshi
       image: Arjun.jpg
       title: Co-Treasurer
-      info: "Class of 2020 studying chemical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Chemical Engineering '20."
     - name: Sherry Liang
       image: Sherry.jpg
       title: Co-Treasurer
-      info: "Class of 2021 studying "
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Geological and Planetary Sciences '21"
     - name: Schuyler Dick
       image: Schuyler.jpg
       title: Secretary
-      info: "Class of 2022 studying chemical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Chemical Engineering '22"
     - name: Anjali Patil
       image: Anjali.jpg
       title: Project Lead
-      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Electrical Engineering '21"
     - name: Jillian Reed
       image: Jillian.jpg
       title: Outreach Director
-      info: "Description pending."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Chemical Engineering '22."
     - name: Ramya Deshpande
       image: Ramya.jpg
       title: Social Media Director
-      info: "Description pending."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Bioengineering '20."
     - name: Kevin Yu 
       image: Kevin.jpg
       title: Website Director
-      info: "Class of 2020 studying computer science."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+      info: "Computer Science '20."
 ---
 ## Meet our team
-Here are the excomm members of Engineers Without Borders.
+Our Executive Committee spans years, majors, and Houses, but we are united by our mission: to explore the world and help those in the most need.

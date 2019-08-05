@@ -483,6 +483,6 @@ class __TwigTemplate_9d881bc58783089faf964c3590358d1e7f19c49d5f77d9bd51b5f4ad36a
         {{ module.content }}
     {% endfor %}
 {% endblock %}
-", "modular_alt.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\modular_alt.html.twig");
+", "modular_alt.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\modular_alt.html.twig");
     }
 }

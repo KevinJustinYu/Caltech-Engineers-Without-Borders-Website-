@@ -57,36 +57,13 @@ class __TwigTemplate_0f10f11e079e0d8a6e0c3ad61d81ce03aa9692ad492532ff6933009ad09
             // line 10
             echo $this->getAttribute($context["member"], "info", []);
             echo "</p>
-            <ul class=\"social-icons\">
-                <li>
-                    <a href=\"";
-            // line 13
-            echo $this->getAttribute($context["member"], "social_twitter", []);
-            echo "\">
-                        <i class=\"fa fa-twitter\"></i></a>
-                </li>
-                <li>
-                    <a href=\"";
-            // line 17
-            echo $this->getAttribute($context["member"], "social_facebook", []);
-            echo "\">
-                        <i class=\"fa fa-facebook\"></i></a>
-                </li>
-                <li>
-                    <a href=\"";
-            // line 21
-            echo $this->getAttribute($context["member"], "social_feed", []);
-            echo "\">
-                        <i class=\"fa fa-rss\"></i></a>
-                </li>
-            </ul>
         </div>
         ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['member'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 27
+        // line 13
         echo "    </div>
     <div class=\"callout-line\"></div>
 </div>
@@ -105,7 +82,7 @@ class __TwigTemplate_0f10f11e079e0d8a6e0c3ad61d81ce03aa9692ad492532ff6933009ad09
 
     public function getDebugInfo()
     {
-        return array (  90 => 27,  78 => 21,  71 => 17,  64 => 13,  58 => 10,  53 => 8,  49 => 7,  45 => 6,  42 => 5,  38 => 4,  33 => 2,  30 => 1,);
+        return array (  67 => 13,  58 => 10,  53 => 8,  49 => 7,  45 => 6,  42 => 5,  38 => 4,  33 => 2,  30 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -128,25 +105,11 @@ class __TwigTemplate_0f10f11e079e0d8a6e0c3ad61d81ce03aa9692ad492532ff6933009ad09
             <span>{{ member.title }}</span>
             <hr>
             <p>{{ member.info }}</p>
-            <ul class=\"social-icons\">
-                <li>
-                    <a href=\"{{ member.social_twitter }}\">
-                        <i class=\"fa fa-twitter\"></i></a>
-                </li>
-                <li>
-                    <a href=\"{{ member.social_facebook }}\">
-                        <i class=\"fa fa-facebook\"></i></a>
-                </li>
-                <li>
-                    <a href=\"{{ member.social_feed }}\">
-                        <i class=\"fa fa-rss\"></i></a>
-                </li>
-            </ul>
         </div>
         {% endfor %}
     </div>
     <div class=\"callout-line\"></div>
 </div>
-", "modular/team.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\modular\\team.html.twig");
+", "modular/team.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\modular\\team.html.twig");
     }
 }

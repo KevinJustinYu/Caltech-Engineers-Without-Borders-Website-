@@ -27,7 +27,7 @@ class __TwigTemplate_4f5f9d12f2539d571a2e9c4c45e7400a5e88458f737cdc4bb359777011b
     protected function doDisplay(array $context, array $blocks = [])
     {
         // line 1
-        $this->loadTemplate("blog.html.twig", "blog.html.twig", 1, "1770746491")->display($context);
+        $this->loadTemplate("blog.html.twig", "blog.html.twig", 1, "609416565")->display($context);
     }
 
     public function getTemplateName()
@@ -96,13 +96,13 @@ class __TwigTemplate_4f5f9d12f2539d571a2e9c4c45e7400a5e88458f737cdc4bb359777011b
 \t{% endblock %}
 
 \t{% endembed %}
-", "blog.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\blog.html.twig");
+", "blog.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\blog.html.twig");
     }
 }
 
 
 /* blog.html.twig */
-class __TwigTemplate_4f5f9d12f2539d571a2e9c4c45e7400a5e88458f737cdc4bb359777011b31626___1770746491 extends \Twig\Template
+class __TwigTemplate_4f5f9d12f2539d571a2e9c4c45e7400a5e88458f737cdc4bb359777011b31626___609416565 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
@@ -311,6 +311,6 @@ class __TwigTemplate_4f5f9d12f2539d571a2e9c4c45e7400a5e88458f737cdc4bb359777011b
 \t{% endblock %}
 
 \t{% endembed %}
-", "blog.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\blog.html.twig");
+", "blog.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\blog.html.twig");
     }
 }

@@ -261,6 +261,6 @@ class __TwigTemplate_5ec4744d15a24b30b1e296c2564ad9a30aae3699c6e930d2059605da673
     </ul>
     </div>
 </div>
-</div>", "modular/footer.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\modular\\footer.html.twig");
+</div>", "modular/footer.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\modular\\footer.html.twig");
     }
 }

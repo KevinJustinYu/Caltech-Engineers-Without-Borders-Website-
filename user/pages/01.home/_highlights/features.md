@@ -3,21 +3,36 @@ title: Service Highlights
 menu: Highlights
 class: big
 features:
-	- header: Our Team
-	  text: "Take a look at the people behind the scenes."
-	  icon: comment-o
-	  linkurl: "http://www.getgrav.org" 
+	- header: Our Projects
+	  text: "EWB-Caltech is a university chapter of Engineers Without Borders-USA conducting an international program in Ilam, Nepal."
+	  icon: globe
+	  linkurl: "http://www.ewb.caltech.edu/projects"
 	  linktext: "Find Out More"
-	- header: Learn About What We Do
-	  text: "EWB-Caltech is a relatively new university chapter of Engineers Without Borders-USA, conducting its first international program. The club is open to any committed Caltech undergrads and grad students. Currently we have around 30 active members."
-	  icon: heart-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
-	- header: Get Involved
-	  text: "We are trying to fill up our coffers so that we can secure a good financial standing for the upcoming years and accompanying programs. If you have any ideas or opportunities that may be of any fundraising use to us, please let us know."
-	  icon: star-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
+	- header: About Us
+	  text: "Learn about our mission and meet the people behind it. The chapter is currently made up of twenty members and is open to any committed Caltech undergraduate or graduate students."
+	  icon: heart
+	  linkurl: "http://www.ewb.caltech.edu/about"
+	  linktext: "Learn About Us"
+	- header: Join
+	  text: "Whether you're studying chemical engineering or computer science, there's a place for you on our team. You'll hone your technical and interpersonal skills while solving real-world problems, worldwide."
+	  icon: hand-o-up
+	  linkurl: "http://www.ewb.caltech.edu/join" 
+	  linktext: "Get Involved"
+	- header: Blog
+	  text: "Read stories from the field written by our chapter members."
+	  icon: pencil
+	  linkurl: "http://www.ewb.caltech.edu/contact" 
+	  linktext: "Read More"
+	- header: Donate
+	  text: "Our projects are made possible by our generous sponsors. Thank you for helping us help others."
+	  icon: play
+	  linkurl: "http://www.ewb.caltech.edu/donate" 
+	  linktext: "Support Our Work"
+	- header: Contact Us
+	  text: "We'd love to hear from you."
+	  icon: comment
+	  linkurl: "http://www.ewb.caltech.edu/contact" 
+	  linktext: "Reach Out"
 ---
 
 ## Our Mission

@@ -175,6 +175,6 @@ class __TwigTemplate_a7c4551bb609d1465fe27572cb5714389e71adebb90e940e650d9c3b3fa
     <a class=\"button\" href=\"{{ feed_url }}.atom\"><i class=\"fa fa-rss-square\"></i> Atom 1.0</a>
     <a class=\"button\" href=\"{{ feed_url }}.rss\"><i class=\"fa fa-rss-square\"></i> RSS</a>
 </div>
-{% endif %}", "partials/sidebar.html.twig", "C:\\Users\\kevin\\Documents\\Temporary Documents\\engineers_without_borders\\MAMP Websites\\grav-skeleton-deliver-site\\user\\themes\\deliver\\templates\\partials\\sidebar.html.twig");
+{% endif %}", "partials/sidebar.html.twig", "C:\\Users\\Noelle_2\\Desktop\\Projects\\EWB\\Caltech-Engineers-Without-Borders-Website-\\user\\themes\\deliver\\templates\\partials\\sidebar.html.twig");
     }
 }
