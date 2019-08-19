@@ -3,7 +3,7 @@ title: Projects
 portfolio:
     - title: Ilam, Nepal
       desc: "Nepal Project Description."
-      image: paradigm.jpg
+      image: Map_Of_Nepal.jpg
       modalid: 1
       client: RocketTheme
       date: April 2014
@@ -11,7 +11,7 @@ portfolio:
       url: http://www.rockettheme.com
     - title: Guatemala
       desc: "Guatemala Project Description."
-      image: lexicon.jpg
+      image: Map_Of_Guatemala.jpg
       modalid: 2
       client: RocketTheme
       date: April 2014

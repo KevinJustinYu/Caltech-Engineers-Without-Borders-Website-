@@ -1,93 +1,93 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1564978129,
-    'checksum' => 'b5de2240e0978d23a247487e213501b5',
+    'timestamp' => 1566172364,
+    'checksum' => '7241733cdc1a9ad9ea3e37e1687df509',
     'files' => [
         'user/config' => [
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1564977453
+                'modified' => 1566170946
             ],
             'plugins/jscomments' => [
                 'file' => 'user/config/plugins/jscomments.yaml',
-                'modified' => 1564977453
+                'modified' => 1553199656
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1564977453
+                'modified' => 1554270672
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1564977453
+                'modified' => 1566172362
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1564977453
+                'modified' => 1553199656
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1564977451
+                'modified' => 1553199656
             ],
             'security' => [
                 'file' => 'system/config/security.yaml',
-                'modified' => 1564977451
+                'modified' => 1553199656
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1564977451
+                'modified' => 1553199656
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1564977451
+                'modified' => 1553199656
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1564977451
+                'modified' => 1553199656
             ]
         ],
         'user/plugins' => [
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
-                'modified' => 1564977458
+                'modified' => 1553199658
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1564977458
+                'modified' => 1553199658
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1564977458
+                'modified' => 1553199660
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1564977461
+                'modified' => 1553199660
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1564977461
+                'modified' => 1553199661
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1564977461
+                'modified' => 1553199664
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1564977462
+                'modified' => 1553199667
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/relatedpages.yaml',
-                'modified' => 1564977462
+                'modified' => 1553199668
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1564977462
+                'modified' => 1553199668
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1564977462
+                'modified' => 1553199669
             ]
         ]
     ],
@@ -126,7 +126,7 @@ return [
                 'enabled' => true,
                 'from' => 'your@email.here',
                 'from_name' => NULL,
-                'to' => 'your@email.here',
+                'to' => 'ewb@caltech.edu',
                 'to_name' => NULL,
                 'mailer' => [
                     'engine' => 'mail',
@@ -138,7 +138,7 @@ return [
                         'password' => ''
                     ],
                     'sendmail' => [
-                        'bin' => '/usr/sbin/sendmail'
+                        'bin' => '/usr/sbin/sendmail -bs'
                     ]
                 ],
                 'content_type' => 'text/html',
@@ -590,7 +590,7 @@ return [
             'title' => 'EWB Caltech',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'John Appleseed',
+                'name' => 'Engineers Without Borders',
                 'email' => 'ewb@caltech.edu',
                 'copyright' => 'Copyright 2019. All Rights Reserved.'
             ],
@@ -618,31 +618,22 @@ return [
             ],
             'social' => [
                 0 => [
-                    'url' => 'https://twitter.com/getgrav',
-                    'icon' => 'twitter'
-                ],
-                1 => [
-                    'url' => '#',
-                    'icon' => 'facebook'
-                ],
-                2 => [
                     'url' => 'https://www.facebook.com/ewbcit',
-                    'icon' => 'rss'
+                    'icon' => 'facebook'
                 ]
             ],
             'contact' => [
                 'address' => [
                     0 => [
-                        'line' => '222 Ave C South'
+                        'line' => '1200 E California Blvd'
                     ],
                     1 => [
-                        'line' => 'Saskatoon, Saskatchewan'
+                        'line' => 'Pasadena, CA'
                     ],
                     2 => [
-                        'line' => 'Canada S7K 2N5'
+                        'line' => 'United States'
                     ]
-                ],
-                'gps' => '1.306.222.3456'
+                ]
             ],
             'othermenu' => [
                 0 => [
@@ -660,8 +651,8 @@ return [
             ],
             'quicklinks' => [
                 0 => [
-                    'text' => 'Portfolio',
-                    'url' => 'base_url:portfolio'
+                    'text' => 'Projects',
+                    'url' => 'base_url:projects'
                 ],
                 1 => [
                     'text' => 'About',
@@ -696,12 +687,12 @@ return [
                 'swipe' => 'true'
             ],
             'footer' => [
-                'description' => 'Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam.',
+                'description' => 'EWB-Caltech is a university chapter of Engineers Without Borders-USA that designs and implements sustainable engineering projects that address pressing needs within underprivileged communities.',
                 'contact_title' => 'Contact Info',
                 'links_title' => 'Quick Links',
-                'newsletter_title' => 'Newsletter',
-                'newsletter_description' => 'Etiam porta sem malesuada magna mollis euismod.',
-                'copyright_text' => 'Copyright 2013 Deliver. All Rights Reserved.',
+                'newsletter_title' => 'Subscribe To Mailing List',
+                'newsletter_description' => 'Join the mailing list to keep updated on club announcements.',
+                'copyright_text' => 'Copyright 2019. All Rights Reserved.',
                 'feedburner' => ''
             ]
         ],

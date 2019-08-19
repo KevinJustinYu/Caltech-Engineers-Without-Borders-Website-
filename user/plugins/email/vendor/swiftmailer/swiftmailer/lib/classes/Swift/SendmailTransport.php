@@ -20,7 +20,7 @@ class Swift_SendmailTransport extends Swift_Transport_SendmailTransport
      *
      * @param string $command
      */
-    public function __construct($command = '/usr/sbin/sendmail -bs')
+    public function __construct($command = '/usr/sbin/sendmail -t')
     {
         call_user_func_array(
             array($this, 'Swift_Transport_SendmailTransport::__construct'),
@@ -38,7 +38,7 @@ class Swift_SendmailTransport extends Swift_Transport_SendmailTransport
      *
      * @return self
      */
-    public static function newInstance($command = '/usr/sbin/sendmail -bs')
+    public static function newInstance($command = '/usr/sbin/sendmail -t')
     {
         return new self($command);
     }

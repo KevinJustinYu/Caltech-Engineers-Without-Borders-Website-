@@ -2,41 +2,32 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/Users/kevin/Documents/Temporary Documents/engineers_without_borders/MAMP Websites/grav-skeleton-deliver-site/user/config/site.yaml',
-    'modified' => 1559532130,
+    'modified' => 1566172362,
     'data' => [
         'title' => 'EWB Caltech',
         'author' => [
-            'name' => 'John Appleseed',
+            'name' => 'Engineers Without Borders',
             'email' => 'ewb@caltech.edu',
             'copyright' => 'Copyright 2019. All Rights Reserved.'
         ],
         'social' => [
             0 => [
-                'url' => 'https://twitter.com/getgrav',
-                'icon' => 'twitter'
-            ],
-            1 => [
-                'url' => '#',
-                'icon' => 'facebook'
-            ],
-            2 => [
                 'url' => 'https://www.facebook.com/ewbcit',
-                'icon' => 'rss'
+                'icon' => 'facebook'
             ]
         ],
         'contact' => [
             'address' => [
                 0 => [
-                    'line' => '222 Ave C South'
+                    'line' => '1200 E California Blvd'
                 ],
                 1 => [
-                    'line' => 'Saskatoon, Saskatchewan'
+                    'line' => 'Pasadena, CA'
                 ],
                 2 => [
-                    'line' => 'Canada S7K 2N5'
+                    'line' => 'United States'
                 ]
-            ],
-            'gps' => '1.306.222.3456'
+            ]
         ],
         'othermenu' => [
             0 => [
@@ -54,8 +45,8 @@ return [
         ],
         'quicklinks' => [
             0 => [
-                'text' => 'Portfolio',
-                'url' => 'base_url:portfolio'
+                'text' => 'Projects',
+                'url' => 'base_url:projects'
             ],
             1 => [
                 'text' => 'About',
@@ -108,12 +99,12 @@ return [
             'swipe' => 'true'
         ],
         'footer' => [
-            'description' => 'Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam.',
+            'description' => 'EWB-Caltech is a university chapter of Engineers Without Borders-USA that designs and implements sustainable engineering projects that address pressing needs within underprivileged communities.',
             'contact_title' => 'Contact Info',
             'links_title' => 'Quick Links',
-            'newsletter_title' => 'Newsletter',
-            'newsletter_description' => 'Etiam porta sem malesuada magna mollis euismod.',
-            'copyright_text' => 'Copyright 2013 Deliver. All Rights Reserved.',
+            'newsletter_title' => 'Subscribe To Mailing List',
+            'newsletter_description' => 'Join the mailing list to keep updated on club announcements.',
+            'copyright_text' => 'Copyright 2019. All Rights Reserved.',
             'feedburner' => ''
         ]
     ]
