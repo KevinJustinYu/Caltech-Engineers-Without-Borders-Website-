@@ -1,7 +1,9 @@
 ---
-title: We would like to hear from you
+title: Join
 ---
 
-##Mission Statement 
+## Meeting Info
+<div style="text-align : left" markdown=1>
+EWB Caltech meets Sunday afternoons in Sherman Fairchild Library. Feel free to drop in on any one of our meetings if you're interested in joining or want to know more about our mission. Both undergraduate and graduate students, and technical and nontechnical backgrounds are welcome to join. We have three main teams to handle our day-to-day affairs like fundraising, project planning and spreading information about our club:
 
-The mission of EWB-Caltech is to design and implement sustainable engineering projects that address pressing needs within underprivileged communities. The club aims to utilize the engineering and technical talents of Caltech students and faculty in order to help aid communities in gaining access to basic human needs such as clean drinking water, reliable access to markets, and sanitation facilities. 
+</div>

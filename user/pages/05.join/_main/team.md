@@ -1,69 +1,15 @@
 ---
-title: Team
-members:
-    - name: Noelle Davis
-      image: Noelle.jpg
-      title: Co-President
-      info: "Class of 2020 studying electrical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Rona Yu
-      image: Rona.jpg
-      title: Co-President
-      info: "Class of 2020 studying computer science."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Arjun Zutshi
-      image: Arjun.jpg
-      title: Co-Treasurer
-      info: "Class of 2020 studying chemical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Sherry Liang
-      image: Sherry.jpg
-      title: Co-Treasurer
-      info: "Class of 2021 studying "
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Schuyler Dick
-      image: Schuyler.jpg
-      title: Secretary
-      info: "Class of 2022 studying chemical engineering."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Anjali Patil
-      image: Anjali.jpg
-      title: Project Lead
-      info: "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Jillian Reed
-      image: Jillian.jpg
-      title: Outreach Director
-      info: "Description pending."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Ramya Deshpande
-      image: Ramya.jpg
-      title: Social Media Director
-      info: "Description pending."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
-    - name: Kevin Yu 
-      image: Kevin.jpg
-      title: Website Director
-      info: "Class of 2020 studying computer science."
-      social_twitter: "#"
-      social_facebook: "#"
-      social_feed: "#"
+title: Teams
 ---
-## Meet our team
-Here are the excomm members of Engineers Without Borders.
+<div style="text-align : left" markdown=1>
+##Project Team
+The project team is heavily involved in planning for our upcoming Guatemala trip. Responsibilities include gathering information from hydrogeological surveys of the area, performing background research on current wells and water distribution systems, and other logistical planning and coordination needed to flesh out the details of our project.
+</div>
+<div style="text-align : left" markdown=1>
+## Outreach Team
+The outreach team aims to spread information about our club, both on and off campus. Activities include working on our website, organizing events (like our recent Sustainability Seminar at Caltech) to increase awareness of our mission, and reaching out to local schools to teach kids about water filtration systems and engineering.
+</div>
+<div style="text-align : left" markdown=1>
+## Treasury Team
+The Treasury team manages our chapter finances, and is additionally involved in coordinating fundraising events to gather resources for our trips. Responsibilities include presenting our work to potential sponsors in the community, as well as writing proposals for grants.
+</div>

@@ -1,10 +1,9 @@
 ---
-title: If you like what you see, Join us
-buttons:
-    - text: APPLY TODAY
-      url: http://learn.getgrav.org
-      primary: true
+title: Donate via Mail
 ---
-## If you like what you see, Join us !
+---
+## Donate via Mail
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo ligula, interdum ut lobortis quis, interdum vitae metus. Proin fringilla metus non nulla cursus, sit amet rutrum est pretium.
+Other donations can be mailed to the following address. Please include contact information so that we can inform you when your donation has been received.
+
+MSC 366 &#183; 1200 E. California Blvd &#183; Pasadena, CA 91126
