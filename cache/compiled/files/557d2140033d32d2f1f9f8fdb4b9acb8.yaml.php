@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/Users/kevin/Documents/Temporary Documents/engineers_without_borders/MAMP Websites/grav-skeleton-deliver-site/user/config/plugins/email.yaml',
-    'modified' => 1553199656,
+    'modified' => 1566170946,
     'data' => [
         'enabled' => true,
         'from' => 'your@email.here',
-        'to' => 'your@email.here',
+        'to' => 'ewb@caltech.edu',
         'mailer' => [
             'engine' => 'mail',
             'smtp' => [
@@ -17,7 +17,7 @@ return [
                 'password' => ''
             ],
             'sendmail' => [
-                'bin' => '/usr/sbin/sendmail'
+                'bin' => '/usr/sbin/sendmail -bs'
             ]
         ]
     ]
