@@ -1,10 +1,8 @@
 ---
-title: If you like what you see, Join us
-buttons:
-    - text: APPLY TODAY
-      url: http://learn.getgrav.org
-      primary: true
----
-## If you like what you see, Join us !
+title: Mailing List
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent justo ligula, interdum ut lobortis quis, interdum vitae metus. Proin fringilla metus non nulla cursus, sit amet rutrum est pretium.
+---
+## Join our mailing list
+<div style="text-align : left" markdown=1>
+If you want to be added to our mailing list to receive regular updates on meeting times, locations and upcoming club events, shoot us an email at ewb@caltech.edu.
+</div>
