@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/Users/kevin/Documents/Temporary Documents/engineers_without_borders/MAMP Websites/grav-skeleton-deliver-site/user/config/system.yaml',
-    'modified' => 1553199656,
+    'modified' => 1570162456,
     'data' => [
         'home' => [
             'alias' => '/home'
@@ -14,7 +14,7 @@ return [
                 'twig' => false
             ],
             'markdown' => [
-                'extra' => false
+                'extra' => true
             ]
         ],
         'cache' => [

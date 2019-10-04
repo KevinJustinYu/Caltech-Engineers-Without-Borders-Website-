@@ -6,32 +6,32 @@ features:
 	- header: Our Projects
 	  text: "EWB-Caltech is a university chapter of Engineers Without Borders-USA conducting an international program in Ilam, Nepal."
 	  icon: globe
-	  linkurl: "http://www.ewb.caltech.edu/projects"
+	  linkurl: projects
 	  linktext: "Find Out More"
 	- header: About Us
 	  text: "Learn about our mission and meet the people behind it. The chapter is currently made up of twenty members and is open to any committed Caltech undergraduate or graduate students."
 	  icon: heart
-	  linkurl: "http://www.ewb.caltech.edu/about"
+	  linkurl: about
 	  linktext: "Learn About Us"
 	- header: Join
 	  text: "Whether you're studying chemical engineering or computer science, there's a place for you on our team. You'll hone your technical and interpersonal skills while solving real-world problems, worldwide."
 	  icon: hand-o-up
-	  linkurl: "http://www.ewb.caltech.edu/join"
+	  linkurl: join
 	  linktext: "Get Involved"
 	- header: Blog
 	  text: "Read stories from the field written by our chapter members."
 	  icon: pencil
-	  linkurl: "http://www.ewb.caltech.edu/blog"
+	  linkurl: blog
 	  linktext: "Read More"
 	- header: Donate
 	  text: "Our projects are made possible by our generous sponsors. Thank you for helping us help others."
 	  icon: play
-	  linkurl: "http://www.ewb.caltech.edu/donate"
+	  linkurl: donate
 	  linktext: "Support Our Work"
 	- header: Contact Us
 	  text: "We'd love to hear from you."
 	  icon: comment
-	  linkurl: "http://www.ewb.caltech.edu/contact"
+	  linkurl: contact
 	  linktext: "Reach Out"
 ---
 
