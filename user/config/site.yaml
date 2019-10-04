@@ -23,19 +23,19 @@ quicklinks:
     url: "base_url:projects"
   - text: "About"
     url: "base_url:about"
-  - text: "Services"
-    url: "base_url:services"
-  - text: "Archive"
-    url: "base_url:archive"
   - text: "Blog"
-    url: "base_url:blog"   
+    url: "base_url:blog"
+  - text: "Join"
+    url: "base_url:join"
+  - text: "Donate"
+    url: "base_url:donate"   
   - text: "Contact Us"
     url: "base_url:contact"          
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
 metadata:
-    description: 'My Deliver Site'             # Site description
+    description: 'EWB Caltech Website'             # Site description
 summary:
   size: 300                                 # Maximum length of summary (characters)
 routes:
@@ -58,9 +58,9 @@ footer:
     description: "EWB-Caltech is a university chapter of Engineers Without Borders-USA that designs and implements sustainable engineering projects that address pressing needs within underprivileged communities."
     contact_title: "Contact Info"
     links_title: "Quick Links"
-    newsletter_title: "Subscribe To Mailing List"
-    newsletter_description: "Join the mailing list to keep updated on club announcements."
+    # newsletter_title: "Subscribe To Mailing List"
+    # newsletter_description: "Join the mailing list to keep updated on club announcements."
     copyright_text: "Copyright 2019. All Rights Reserved."
-    feedburner: ""   # Your feedburner id for Newsletter footer modul
+    # feedburner: ""   # Your feedburner id for Newsletter footer modul
 
 

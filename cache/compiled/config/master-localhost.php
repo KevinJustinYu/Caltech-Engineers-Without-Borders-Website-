@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1569213072,
-    'checksum' => '7241733cdc1a9ad9ea3e37e1687df509',
+    'timestamp' => 1570161937,
+    'checksum' => 'c03dd81337e300f8ae86f47837396b9d',
     'files' => [
         'user/config' => [
             'plugins/email' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1566172362
+                'modified' => 1570161934
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -599,7 +599,7 @@ return [
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'My Deliver Site'
+                'description' => 'EWB Caltech Website'
             ],
             'summary' => [
                 'enabled' => true,
@@ -659,16 +659,16 @@ return [
                     'url' => 'base_url:about'
                 ],
                 2 => [
-                    'text' => 'Services',
-                    'url' => 'base_url:services'
-                ],
-                3 => [
-                    'text' => 'Archive',
-                    'url' => 'base_url:archive'
-                ],
-                4 => [
                     'text' => 'Blog',
                     'url' => 'base_url:blog'
+                ],
+                3 => [
+                    'text' => 'Join',
+                    'url' => 'base_url:join'
+                ],
+                4 => [
+                    'text' => 'Donate',
+                    'url' => 'base_url:donate'
                 ],
                 5 => [
                     'text' => 'Contact Us',
@@ -690,10 +690,7 @@ return [
                 'description' => 'EWB-Caltech is a university chapter of Engineers Without Borders-USA that designs and implements sustainable engineering projects that address pressing needs within underprivileged communities.',
                 'contact_title' => 'Contact Info',
                 'links_title' => 'Quick Links',
-                'newsletter_title' => 'Subscribe To Mailing List',
-                'newsletter_description' => 'Join the mailing list to keep updated on club announcements.',
-                'copyright_text' => 'Copyright 2019. All Rights Reserved.',
-                'feedburner' => ''
+                'copyright_text' => 'Copyright 2019. All Rights Reserved.'
             ]
         ],
         'streams' => [
