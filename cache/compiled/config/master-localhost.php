@@ -1,93 +1,93 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1569213072,
-    'checksum' => '7241733cdc1a9ad9ea3e37e1687df509',
+    'timestamp' => 1570158502,
+    'checksum' => '80e67c62d9b1ddba5f590826e77ea4ad',
     'files' => [
         'user/config' => [
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1566170946
+                'modified' => 1569200967
             ],
             'plugins/jscomments' => [
                 'file' => 'user/config/plugins/jscomments.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1554270672
+                'modified' => 1569200967
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1566172362
+                'modified' => 1569200967
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1553199656
+                'modified' => 1570158421
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ],
             'security' => [
                 'file' => 'system/config/security.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1553199656
+                'modified' => 1569200967
             ]
         ],
         'user/plugins' => [
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
-                'modified' => 1553199658
+                'modified' => 1569200972
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1553199658
+                'modified' => 1569200972
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1553199660
+                'modified' => 1569200972
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1553199660
+                'modified' => 1569200972
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1553199661
+                'modified' => 1569200972
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1553199664
+                'modified' => 1569200972
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1553199667
+                'modified' => 1569200972
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/relatedpages.yaml',
-                'modified' => 1553199668
+                'modified' => 1569200972
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1553199668
+                'modified' => 1569200972
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1553199669
+                'modified' => 1569200972
             ]
         ]
     ],
@@ -773,7 +773,7 @@ return [
                     'twig' => true
                 ],
                 'markdown' => [
-                    'extra' => false,
+                    'extra' => true,
                     'auto_line_breaks' => false,
                     'auto_url_links' => false,
                     'escape_markup' => false,

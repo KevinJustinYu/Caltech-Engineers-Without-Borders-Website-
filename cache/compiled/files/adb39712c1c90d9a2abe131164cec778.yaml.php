@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/ramyad/Documents/MAMP Websites/Caltech-Engineers-Without-Borders-Website-/user/config/system.yaml',
-    'modified' => 1569200967,
+    'modified' => 1570158421,
     'data' => [
         'home' => [
             'alias' => '/home'
@@ -14,7 +14,7 @@ return [
                 'twig' => false
             ],
             'markdown' => [
-                'extra' => false
+                'extra' => true
             ]
         ],
         'cache' => [
