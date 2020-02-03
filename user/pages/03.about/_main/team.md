@@ -29,10 +29,18 @@ members:
       image: Jillian.jpg
       title: Outreach Director
       info: "Chemical Engineering '22."
+    - name: Abigail Jiang
+      image: Abigail.jpg
+      title: Outreach Director
+      info: "Materials Science '23."
     - name: Ramya Deshpande
       image: Ramya.jpg
       title: Social Media Director
       info: "Bioengineering '20."
+    - name: Jack Nguyen
+      image: Jack.jpg
+      title: Professional & Student Chapter Liason
+      info: "Chemistry '22."
     - name: Kevin Yu 
       image: Kevin.jpg
       title: Website Director
