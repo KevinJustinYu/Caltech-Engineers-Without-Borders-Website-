@@ -2,7 +2,7 @@
 title: Projects
 portfolio:
     - title: Ilam, Nepal
-      desc: "Currently, the club is working in partnership with the non-governmental organization Namsaling Community Development Center (NCDC) in Ilam District, Nepal, on a spring water source project that will help provide clean water for about 300 households in the surrounding regions of the Ilam District. We began this spring source protection in summer 2013, completed the assessment trip in September 2014, and are currently wrapping things up by partnering with the NCDC to collect water samples for testing in Kathmandu."
+      desc: "Currently, the club is working in partnership with the non-governmental organization Namsaling Community Development Center NCDC in Ilam District, Nepal, on a spring water source project that will help provide clean water for about 300 households in the surrounding regions of the Ilam District. We began this spring source protection in summer 2013, completed the assessment trip in September 2014, and are currently wrapping things up by partnering with the NCDC to collect water samples for testing in Kathmandu."
       image: Map_Of_Nepal.jpg
 
     - title: Guatemala
