@@ -1,191 +1,148 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1566166137,
-    'checksum' => '5c3aac7e7a9581770937455019885596',
+    'timestamp' => 1592642572,
+    'checksum' => 'c42ec5092ea319972a62acf086f008ec',
     'files' => [
         'system/languages' => [
             'ar' => [
                 'file' => 'system/languages/ar.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'ca' => [
                 'file' => 'system/languages/ca.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'da' => [
                 'file' => 'system/languages/da.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'fi' => [
                 'file' => 'system/languages/fi.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'sk' => [
                 'file' => 'system/languages/sk.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'th' => [
                 'file' => 'system/languages/th.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'uk' => [
                 'file' => 'system/languages/uk.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ],
             'vi' => [
                 'file' => 'system/languages/vi.yaml',
-                'modified' => 1553199656
+                'modified' => 1592452400
             ]
         ],
         'user/plugins' => [
-            'plugins/email' => [
-                'file' => 'user/plugins/email/languages.yaml',
-                'modified' => 1553199660
-            ],
-            'plugins/error' => [
-                'file' => 'user/plugins/error/languages.yaml',
-                'modified' => 1553199660
-            ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1553199664
+                'modified' => 1592452401
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/languages.yaml',
-                'modified' => 1553199668
+                'modified' => 1592452401
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
-                'modified' => 1553199668
+                'modified' => 1592452401
+            ],
+            'plugins/error' => [
+                'file' => 'user/plugins/error/languages.yaml',
+                'modified' => 1592452401
+            ],
+            'plugins/email' => [
+                'file' => 'user/plugins/email/languages.yaml',
+                'modified' => 1592452401
             ]
         ]
     ],
     'data' => [
         'en' => [
-            'PLUGIN_EMAIL' => [
-                'MAIL_ENGINE' => 'Mail Engine',
-                'CONTENT_TYPE' => 'Content type',
-                'CHARSET' => 'Charset',
-                'EMAIL_FORM' => 'Email from',
-                'EMAIL_FORM_PLACEHOLDER' => 'Default email from address',
-                'EMAIL_FROM_NAME' => 'Email from name',
-                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Default email from name',
-                'EMAIL_TO' => 'Email to',
-                'EMAIL_TO_PLACEHOLDER' => 'Default email to address',
-                'EMAIL_TO_NAME' => 'Email to name',
-                'EMAIL_TO_NAME_PLACEHOLDER' => 'Default email to name',
-                'EMAIL_CC' => 'Email CC',
-                'EMAIL_CC_PLACEHOLDER' => 'Default email CC address',
-                'EMAIL_CC_NAME' => 'Email CC name',
-                'EMAIL_CC_NAME_PLACEHOLDER' => 'Default email CC name',
-                'EMAIL_BCC' => 'Email BCC',
-                'EMAIL_BCC_PLACEHOLDER' => 'Default email BCC address',
-                'EMAIL_REPLY_TO' => 'Email reply-to',
-                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Default email reply-to address',
-                'EMAIL_REPLY_TO_NAME' => 'Email reply-to name',
-                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Default email reply-to name',
-                'EMAIL_BODY' => 'Email body',
-                'EMAIL_BODY_PLACEHOLDER' => 'Defaults to a table of all form fields',
-                'SMTP_SERVER' => 'SMTP server',
-                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
-                'SMTP_PORT' => 'SMTP port',
-                'SMTP_PORT_PLACEHOLDER' => 'Defaults to 25 (plaintext) / 587 (encrypted)',
-                'SMTP_ENCRYPTION' => 'SMTP encryption',
-                'SMTP_LOGIN_NAME' => 'SMTP login name',
-                'SMTP_PASSWORD' => 'SMTP password',
-                'PATH_TO_SENDMAIL' => 'Path to sendmail',
-                'DEBUG' => 'Debug',
-                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
-                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Error',
-                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Form not validated. One or more required fields are missing.',
                 'NONCE_NOT_VALIDATED' => 'Oops there was a problem, please check your input and submit the form again.',
@@ -280,6 +237,49 @@ return [
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Query: <strong>%s</strong> found one result',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Query: <strong>%s</strong> found %s results',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Please add at least %s characters'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Error',
+                'ERROR_MESSAGE' => 'Woops. Looks like this page doesn\'t exist.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'MAIL_ENGINE' => 'Mail Engine',
+                'CONTENT_TYPE' => 'Content type',
+                'CHARSET' => 'Charset',
+                'EMAIL_FORM' => 'Email from',
+                'EMAIL_FORM_PLACEHOLDER' => 'Default email from address',
+                'EMAIL_FROM_NAME' => 'Email from name',
+                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Default email from name',
+                'EMAIL_TO' => 'Email to',
+                'EMAIL_TO_PLACEHOLDER' => 'Default email to address',
+                'EMAIL_TO_NAME' => 'Email to name',
+                'EMAIL_TO_NAME_PLACEHOLDER' => 'Default email to name',
+                'EMAIL_CC' => 'Email CC',
+                'EMAIL_CC_PLACEHOLDER' => 'Default email CC address',
+                'EMAIL_CC_NAME' => 'Email CC name',
+                'EMAIL_CC_NAME_PLACEHOLDER' => 'Default email CC name',
+                'EMAIL_BCC' => 'Email BCC',
+                'EMAIL_BCC_PLACEHOLDER' => 'Default email BCC address',
+                'EMAIL_REPLY_TO' => 'Email reply-to',
+                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Default email reply-to address',
+                'EMAIL_REPLY_TO_NAME' => 'Email reply-to name',
+                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Default email reply-to name',
+                'EMAIL_BODY' => 'Email body',
+                'EMAIL_BODY_PLACEHOLDER' => 'Defaults to a table of all form fields',
+                'SMTP_SERVER' => 'SMTP server',
+                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
+                'SMTP_PORT' => 'SMTP port',
+                'SMTP_PORT_PLACEHOLDER' => 'Defaults to 25 (plaintext) / 587 (encrypted)',
+                'SMTP_ENCRYPTION' => 'SMTP encryption',
+                'SMTP_LOGIN_NAME' => 'SMTP login name',
+                'SMTP_PASSWORD' => 'SMTP password',
+                'PATH_TO_SENDMAIL' => 'Path to sendmail',
+                'DEBUG' => 'Debug',
+                'EMAIL_NOT_CONFIGURED' => 'Email not configured',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Please configure a \'to\' address in the Email Plugin settings, or in the form',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Please configure a \'from\' address in the Email Plugin settings, or in the form',
+                'TEST_EMAIL_BODY' => '<h1>Testing Email</h1><p>This test email has been sent based on the following configuration:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -429,110 +429,7 @@ Path: `%2$s`
                 6 => 'Sunday'
             ]
         ],
-        'da' => [
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Fejl',
-                'ERROR_MESSAGE' => 'Ups. Det ser ud til at siden ikke eksisterer.'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Søg …',
-                'SEARCH_RESULTS' => 'Søgeresultat',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Søgning: <strong>%s</strong> fandt et resultat',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Søgning: <strong>%s</strong> fandt %s resultater'
-            ],
-            'FRONTMATTER_ERROR_PAGE' => '---
-Titel: %1$s
----
-
-# Fejl: Ugyldigt frontmatter
-
-Sti: `%2$s`
-
-**%3$s**
-
-```
-%4$s
-```
-',
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Ingen dato angivet',
-                'BAD_DATE' => 'Ugyldig dato',
-                'AGO' => 'siden',
-                'FROM_NOW' => 'fra nu',
-                'SECOND' => 'sekund',
-                'MINUTE' => 'minut',
-                'HOUR' => 'time',
-                'DAY' => 'dag',
-                'WEEK' => 'uge',
-                'MONTH' => 'måned',
-                'YEAR' => 'år',
-                'DECADE' => 'årti',
-                'SEC' => 'sek',
-                'MIN' => 'min',
-                'HR' => 't',
-                'WK' => 'u',
-                'MO' => 'md',
-                'YR' => 'år',
-                'DEC' => 'årti',
-                'SECOND_PLURAL' => 'sekunder',
-                'MINUTE_PLURAL' => 'minutter',
-                'HOUR_PLURAL' => 'timer',
-                'DAY_PLURAL' => 'dage',
-                'WEEK_PLURAL' => 'uger',
-                'MONTH_PLURAL' => 'måneder',
-                'YEAR_PLURAL' => 'år',
-                'DECADE_PLURAL' => 'årtier',
-                'SEC_PLURAL' => 'sek',
-                'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'timer',
-                'WK_PLURAL' => 'uger',
-                'MO_PLURAL' => 'mdr',
-                'YR_PLURAL' => 'år',
-                'DEC_PLURAL' => 'årtier'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Validering mislykkedes:</b>',
-                'INVALID_INPUT' => 'Ugyldigt input i',
-                'MISSING_REQUIRED_FIELD' => 'Mangler obligatorisk felt:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Januar',
-                1 => 'Februar',
-                2 => 'Marts',
-                3 => 'April',
-                4 => 'Maj',
-                5 => 'Juni',
-                6 => 'Juli',
-                7 => 'August',
-                8 => 'September',
-                9 => 'Oktober',
-                10 => 'November',
-                11 => 'December'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Mandag',
-                1 => 'Tirsdag',
-                2 => 'Onsdag',
-                3 => 'Torsdag',
-                4 => 'Fredag',
-                5 => 'Lørdag',
-                6 => 'Søndag'
-            ]
-        ],
         'de' => [
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Fehler',
-                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularwerte nicht gültig. Für ein oder mehrere erforderliche Felder fehlen Werte.',
                 'NONCE_NOT_VALIDATED' => 'Ups, es gibt da ein Problem. Eingabewerte bitte noch mal prüfen und das Formular erneut absenden.',
@@ -621,6 +518,15 @@ Sti: `%2$s`
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Suche: <strong>%s</strong> fand %s Ergebnisse',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Bitte geben Sie mindestens %s Zeichen ein',
                 'SEARCH_VALUE' => 'Suchen'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Fehler',
+                'ERROR_MESSAGE' => 'Uuups. Sieht aus als ob diese Seite nicht existiert.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Bitte konfigurieren sie eine \'An\' (\'to\') Adresse in den Email-Plugin-Einstellungen oder im Formular.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Bitte konfigurieren sie eine \'Von\' (\'from\') Adresse in den Email-Plugin-Einstellungen oder im Formular.'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -719,10 +625,6 @@ Pfad: `%2$s`
             ]
         ],
         'es' => [
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Falló la validación del formulario. Uno o más campos obligatorios no fueron cubiertos.',
                 'NONCE_NOT_VALIDATED' => 'Oops, hay un problema, por favor revise la información e intente enviar el formulario otra vez.',
@@ -813,6 +715,10 @@ Pfad: `%2$s`
                 'SEARCH_RESULTS' => 'Resultados de la búsqueda',
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Consulta: <strong>%s</strong> se encontró 1 resultado',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Consulta: <strong>%s</strong> se encontraron %s resultados'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Por favor configura una dirección de \'destinatario\' en la configuración del Plugin de Email o en el formulario'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -912,17 +818,6 @@ Ruta: `%2$s`
             ]
         ],
         'fr' => [
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
-                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Erreur',
-                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulaire non validé. Un ou plusieurs champs obligatoires sont manquants.',
                 'NONCE_NOT_VALIDATED' => 'Oups, un problème est survenu. Veuillez vérifier votre saisie et soumettre à nouveau le formulaire.',
@@ -994,6 +889,17 @@ Ruta: `%2$s`
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Recherche : Un résultat trouvé pour <strong>%s</strong>',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Recherche : %2$s résultats trouvés pour <strong>%1$s</strong>',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Veuillez ajouter au moins %s caractères'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Erreur',
+                'ERROR_MESSAGE' => 'Oups. Il semble que cette page n’existe pas.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Veuillez configurer une adresse de \'destinataire\' dans les paramètres du Plugin ou dans le formulaire.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Veuillez configurer une adresse \'d\'expéditeur\' dans les paramètres du Plugin ou dans le formulaire.',
+                'TEST_EMAIL_BODY' => '<h1>E-mail de test</h1><p>Cet e-mail de test est basé sur la configuration suivante :</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -1142,450 +1048,7 @@ Path: `%2$s`
                 6 => 'Dimanche'
             ]
         ],
-        'hr' => [
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Greška',
-                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formular nije validiran. Jedan ili više traženih polja nedostaju.',
-                'NONCE_NOT_VALIDATED' => 'Ups, došlo je do problema, molimo provjerite svoj unos i pokušajte opet.',
-                'FILES' => 'Upload Fajlova',
-                'ALLOW_MULTIPLE' => 'Dopusti više od jednog fajla',
-                'DESTINATION' => 'Destinacija',
-                'DESTINATION_HELP' => 'Lokacija gdje bi fajlovi trebali biti uploadani',
-                'ACCEPT' => 'Dopušteni MIME Tipovi',
-                'ACCEPT_HELP' => 'Lista dopuštenih MIME Tipova koji su dozvoljeni za upload',
-                'ERROR_VALIDATING_CAPTCHA' => 'Greška pri validiranju Captcha'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Traži …',
-                'SEARCH_RESULTS' => 'Rezultati pretrage',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Upit: <strong>%s</strong> je pronašao jedan rezultat',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Upit: <strong>%s</strong> je pronašao %s rezultata'
-            ],
-            'INFLECTOR_UNCOUNTABLE' => [
-                0 => 'oprema',
-                1 => 'informacije',
-                2 => 'riža',
-                3 => 'novac',
-                4 => 'vrsta',
-                5 => 'serija',
-                6 => 'riba',
-                7 => 'ovca'
-            ],
-            'INFLECTOR_IRREGULAR' => [
-                'person' => 'osobe',
-                'man' => 'ljudi',
-                'child' => 'djeca',
-                'sex' => 'spolovi',
-                'move' => 'Pomakni'
-            ],
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Datum nije upisan',
-                'BAD_DATE' => 'Pogrešan datum',
-                'AGO' => 'prije',
-                'FROM_NOW' => 'od sada',
-                'SECOND' => 'sekunda',
-                'MINUTE' => 'minuta',
-                'HOUR' => 'sat',
-                'DAY' => 'dan',
-                'WEEK' => 'tjedan',
-                'MONTH' => 'mjesec',
-                'YEAR' => 'godina',
-                'DECADE' => 'desetljeće',
-                'SEC' => 'sek',
-                'HR' => 'sat',
-                'WK' => 't',
-                'MO' => 'm',
-                'YR' => 'g',
-                'DEC' => 'des',
-                'SECOND_PLURAL' => 'sekundi',
-                'MINUTE_PLURAL' => 'minuta',
-                'HOUR_PLURAL' => 'sati',
-                'DAY_PLURAL' => 'dan',
-                'WEEK_PLURAL' => 'tjedana',
-                'MONTH_PLURAL' => 'mjeseci',
-                'YEAR_PLURAL' => 'godina',
-                'DECADE_PLURAL' => 'desetljeća',
-                'SEC_PLURAL' => 'sek',
-                'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'sat',
-                'WK_PLURAL' => 't',
-                'MO_PLURAL' => 'm',
-                'YR_PLURAL' => 'g',
-                'DEC_PLURAL' => 'des'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Validacija nije uspjela:</b>',
-                'INVALID_INPUT' => 'Pogrešan unos u',
-                'MISSING_REQUIRED_FIELD' => 'Nedostaje obavezno polje:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Siječanj',
-                1 => 'Veljača',
-                2 => 'Ožujak',
-                3 => 'Travanj',
-                4 => 'Svibanj',
-                5 => 'Lipanj',
-                6 => 'Srpanj',
-                7 => 'Kolovoz',
-                8 => 'Rujan',
-                9 => 'Listopad',
-                10 => 'Studeni',
-                11 => 'Prosinac'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Ponedjeljak',
-                1 => 'Utorak',
-                2 => 'Srijeda',
-                3 => 'Četvrtak',
-                4 => 'Petak',
-                5 => 'Subota',
-                6 => 'Nedjelja'
-            ]
-        ],
-        'it' => [
-            'PLUGIN_EMAIL' => [
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Errore',
-                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Il Form risulta invalido. Uno o più campi risultano omessi.',
-                'NONCE_NOT_VALIDATED' => 'Oops è stato riscontrato un errore, si prega di ricontrollare i dati inseriti e provare di nuovo.',
-                'FILES' => 'Invio dei Files',
-                'ALLOW_MULTIPLE' => 'Consenti più di un file',
-                'ALLOW_MULTIPLE_HELP' => 'Permette la selezione di più di un file per l\'upload',
-                'DESTINATION' => 'Destinazione',
-                'DESTINATION_HELP' => 'La destinazione dove i files vengono uploadati',
-                'ACCEPT' => 'Tipi di MIME Concessi',
-                'ACCEPT_HELP' => 'Una lista di tipi di MIME che sono permessi per l\'upload',
-                'ERROR_VALIDATING_CAPTCHA' => 'Errore durante la validazione del Captcha',
-                'DATA_SUMMARY' => 'Ecco il riassunto di ciò che ci hai scritto:',
-                'NO_FORM_DATA' => 'Nessuna informazione disponibile',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Site key',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Chiave segreta',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
-                'GENERAL' => 'Generale',
-                'USE_BUILT_IN_CSS' => 'Usa CSS incorporato',
-                'FILEUPLOAD_PREVENT_SELF' => 'Non si può usare "%s" fuori dalle pagine.',
-                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Impossibile caricare il file %s: %s',
-                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Impossibile muovere il file %s to "%s"',
-                'DROPZONE_CANCEL_UPLOAD' => 'Trasferimento annullato',
-                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Sei sicuro di voler cancellare questo trasferimento?',
-                'DROPZONE_DEFAULT_MESSAGE' => 'Trascina qui i tuoi file o <strong>clicca su quest\'area</strong>',
-                'DROPZONE_FALLBACK_MESSAGE' => 'Il tuo browser non supporta il trascinamento dei file per il trasferimento.',
-                'DROPZONE_FALLBACK_TEXT' => 'Utilizza il modulo di riserva qui sotto per caricare i tuoi file come ai vecchi tempi.',
-                'DROPZONE_FILE_TOO_BIG' => 'Il file è troppo grande ({{filesize}}MiB). Dimensione massima consentita: {{maxFilesize}}MiB.',
-                'DROPZONE_INVALID_FILE_TYPE' => 'Non puoi caricare questo tipo di file',
-                'DROPZONE_MAX_FILES_EXCEEDED' => 'Non puoi caricare ulteriori file, hai raggiunto il limite consentito.',
-                'DROPZONE_REMOVE_FILE' => 'Rimuovi il file',
-                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Sei sicuro di voler eliminare questo file??',
-                'DROPZONE_RESPONSE_ERROR' => 'Il Server ha risposto con il codice {{statusCode}}.',
-                'YES' => 'Si',
-                'NO' => 'No'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Cerca …',
-                'SEARCH_RESULTS' => 'Risultati della ricerca',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Ricerca: <strong>%s</strong>. Trovato un risultato',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Ricerca: <strong>%s</strong>. Trovati %s risultati',
-                'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Inserisci almeno %s caratteri'
-            ],
-            'FRONTMATTER_ERROR_PAGE' => '---Titolo: %1$s---# Errore: Frontmatter non valido: \'%2$s\' * *%3$s * * \' \'%4$s \' \'',
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Nessuna data fornita',
-                'BAD_DATE' => 'Data non valida',
-                'AGO' => 'fa',
-                'FROM_NOW' => 'da adesso',
-                'SECOND' => 'secondo',
-                'MINUTE' => 'minuto',
-                'HOUR' => 'ora',
-                'DAY' => 'giorno',
-                'WEEK' => 'settimana',
-                'MONTH' => 'mese',
-                'YEAR' => 'anno',
-                'DECADE' => 'decennio',
-                'SEC' => 'sec',
-                'MIN' => 'min',
-                'HR' => 'ora',
-                'WK' => 'settimana',
-                'MO' => 'mese',
-                'YR' => 'anno',
-                'DEC' => 'decennio',
-                'SECOND_PLURAL' => 'secondi',
-                'MINUTE_PLURAL' => 'minuti',
-                'HOUR_PLURAL' => 'ore',
-                'DAY_PLURAL' => 'giorni',
-                'WEEK_PLURAL' => 'settimane',
-                'MONTH_PLURAL' => 'mesi',
-                'YEAR_PLURAL' => 'anni',
-                'DECADE_PLURAL' => 'decadi',
-                'SEC_PLURAL' => 'secondi',
-                'MIN_PLURAL' => 'minuti',
-                'HR_PLURAL' => 'ore',
-                'WK_PLURAL' => 'settimane',
-                'MO_PLURAL' => 'mesi',
-                'YR_PLURAL' => 'anni',
-                'DEC_PLURAL' => 'decenni'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Validazione fallita:</b>',
-                'INVALID_INPUT' => 'Input non valido in',
-                'MISSING_REQUIRED_FIELD' => 'Campo richiesto mancante:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Gennaio',
-                1 => 'Febbraio',
-                2 => 'Marzo',
-                3 => 'Aprile',
-                4 => 'Maggio',
-                5 => 'Giugno',
-                6 => 'Luglio',
-                7 => 'Agosto',
-                8 => 'Settembre',
-                9 => 'Ottobre',
-                10 => 'Novembre',
-                11 => 'Dicembre'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Lunedì',
-                1 => 'Martedì',
-                2 => 'Mercoledì',
-                3 => 'Giovedì',
-                4 => 'Venerdì',
-                5 => 'Sabato',
-                6 => 'Domenica'
-            ]
-        ],
-        'ro' => [
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Eroare',
-                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formularul nu a fost validat. Unul sau mai multe câmpuri sunt goale.',
-                'NONCE_NOT_VALIDATED' => 'Oops a apărut o problemă, vă rugăm verificați datele introduse și trimiteți formularul din nou.',
-                'FILES' => 'Încărcare fișiere',
-                'ALLOW_MULTIPLE' => 'Permiteți mai multe fișiere',
-                'ALLOW_MULTIPLE_HELP' => 'Vă permite să selectați mai multe fișiere pentru încărcare.',
-                'DESTINATION' => 'Destinație',
-                'DESTINATION_HELP' => 'Locația unde vor fi încărcate fișierele.',
-                'ACCEPT' => 'Permite tipuri MIME ',
-                'ACCEPT_HELP' => 'O listă cu tipuri MIME care sunt permise la încărcare.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Eroare la validarea Captcha.',
-                'DATA_SUMMARY' => 'Mai jos aveți un rezumat al mesajului pe care ni l-ați trimis:',
-                'NO_FORM_DATA' => 'Nu e disponibilă nici o dată pentru formular',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Cheia pentru Site',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Cheia secretă pentru Site',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați  https://developers.google.com/recaptcha'
-            ],
-            'PLUGIN_REL_PAGES' => [
-                'BASICS' => 'Setări de bază',
-                'LIMIT' => 'Limită',
-                'LIMIT_HELP' => 'Numărul afișat al paginilor legate',
-                'ORDER' => 'Ordinea',
-                'ORDER_BY' => 'Ordonează după',
-                'SHOW_SCORE' => 'Arată scorul',
-                'SHOW_SCORE_HELP' => 'Comutați pentru afișarea scorurilor',
-                'ITEMS' => 'Articole',
-                'ITEMS_HELP' => 'Acceptă colecții bazate pe `@self`, `@page` și `@taxonomy`',
-                'PAGE_IN_FILTER' => 'Filtru \'in\' pagină',
-                'PAGE_IN_FILTER_HELP' => 'Activează dacă pagina curentă trebuie să fie în colecția filtrată',
-                'EXPLICIT_PROCESS' => 'Procesează anumite pagini specifice',
-                'EXPLICIT_PROCESS_HELP' => 'Activează pentru procesarea anumitor pagini specifice',
-                'EXPLICIT_SCORE' => 'Scorul paginilor specifice',
-                'EXPLICIT_SCORE_HELP' => 'Un scor între (0 - 100) pentru a da unor pagini specifice greutate',
-                'TAXONOMY_MATCH' => 'Potrivire după Taxonomie',
-                'TAXONOMY' => 'Taxonomie',
-                'TAXONOMY_HELP' => 'Ce fel de taxonomie să fie folosită la potrivirea paginilor',
-                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
-                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activeazā potrivirea între taxonomii',
-                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-conținut',
-                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activează potrivirea după taxonomie - conținut',
-                'CONTENT_MATCH' => 'Potrivirea după conținut',
-                'CONTENT_PROCESS' => 'Conținut-conținut',
-                'CONTENT_PROCESS_HELP' => 'Activează pentru potrivire după conținut (Notă: dezactivați dacă aveți conținut mult)',
-                'ADVANCED' => 'Avansat',
-                'TAXONOMY_SCORE_SCALE' => 'Scorul scalei Taxonomie-taxonomie',
-                'CONTENT_SCORE_SCALE' => 'Scorul scalei Taxonomie-conținut'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Caută …',
-                'SEARCH_RESULTS' => 'Rezultatele căutării',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Căutarea: <strong>%s</strong> a găsit un rezultat',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Căutarea: <strong>%s</strong> a găsit %s rezultate'
-            ],
-            'FRONTMATTER_ERROR_PAGE' => '---
-Titlu: %1$s
----
-# Eroare: Frontmatter este invalid
-
-Calea: `%2$s`
-
-**%3$s**
-
-```
-%4$s
-',
-            'INFLECTOR_PLURALS' => [
-                '/(quiz)$/i' => '\\1zes',
-                '/^(ox)$/i' => '\\1en',
-                '/([m|l])ouse$/i' => '\\1ice',
-                '/(matr|vert|ind)ix|ex$/i' => '\\1ices',
-                '/(x|ch|ss|sh)$/i' => '\\1es',
-                '/([^aeiouy]|qu)ies$/i' => '\\1y',
-                '/([^aeiouy]|qu)y$/i' => '\\1ies',
-                '/(hive)$/i' => '\\1s',
-                '/(?:([^f])fe|([lr])f)$/i' => '\\1\\2ves',
-                '/sis$/i' => 'ses',
-                '/([ti])um$/i' => '\\1a',
-                '/(buffal|tomat)o$/i' => '\\1oes'
-            ],
-            'INFLECTOR_UNCOUNTABLE' => [
-                0 => 'echipament',
-                1 => 'informaţie',
-                2 => 'orez',
-                3 => 'bani',
-                4 => 'specii',
-                5 => 'serii',
-                6 => 'peşte',
-                7 => 'oaie'
-            ],
-            'INFLECTOR_IRREGULAR' => [
-                'person' => 'persoane',
-                'man' => 'bărbați',
-                'child' => 'copii',
-                'sex' => 'sexe',
-                'move' => 'mutări'
-            ],
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Nu există o dată prevăzută',
-                'BAD_DATE' => 'Dată incorectă',
-                'AGO' => 'în urmă',
-                'FROM_NOW' => 'de acum',
-                'SECOND' => 'secundă',
-                'MINUTE' => 'minut',
-                'HOUR' => 'oră',
-                'DAY' => 'zi',
-                'WEEK' => 'săptămână',
-                'MONTH' => 'lună',
-                'YEAR' => 'an',
-                'DECADE' => 'decadă',
-                'SEC' => 'sec',
-                'MIN' => 'min',
-                'HR' => 'oră',
-                'WK' => 'săpt',
-                'MO' => 'lună',
-                'YR' => 'an',
-                'DEC' => 'decadă',
-                'SECOND_PLURAL' => 'secunde',
-                'MINUTE_PLURAL' => 'minute',
-                'HOUR_PLURAL' => 'ore',
-                'DAY_PLURAL' => 'zile',
-                'WEEK_PLURAL' => 'săptămâni',
-                'MONTH_PLURAL' => 'luni',
-                'YEAR_PLURAL' => 'ani',
-                'DECADE_PLURAL' => 'decade',
-                'SEC_PLURAL' => 'sec',
-                'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'ore',
-                'WK_PLURAL' => 'săpt',
-                'MO_PLURAL' => 'luni',
-                'YR_PLURAL' => 'ani',
-                'DEC_PLURAL' => 'decenii'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Validare nereușită</b>',
-                'INVALID_INPUT' => 'Date incorecte în',
-                'MISSING_REQUIRED_FIELD' => 'Câmp obligatoriu lipsă:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Ianuarie',
-                1 => 'Februarie',
-                2 => 'Martie',
-                3 => 'Aprilie',
-                4 => 'Mai',
-                5 => 'Iunie',
-                6 => 'Iulie',
-                7 => 'August',
-                8 => 'Septembrie',
-                9 => 'Octombrie',
-                10 => 'Noiembrie',
-                11 => 'Decembrie'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Luni',
-                1 => 'Marți',
-                2 => 'Miercuri',
-                3 => 'Joi',
-                4 => 'Vineri',
-                5 => 'Sâmbătă',
-                6 => 'Duminică'
-            ]
-        ],
         'ru' => [
-            'PLUGIN_EMAIL' => [
-                'MAIL_ENGINE' => 'Почтовая система',
-                'CONTENT_TYPE' => 'Тип контента',
-                'CHARSET' => 'Кодировка',
-                'EMAIL_FORM' => 'Почта отправителя',
-                'EMAIL_FORM_PLACEHOLDER' => 'Email адрес отправителя по умолчанию',
-                'EMAIL_FROM_NAME' => 'Имя почты отправителя',
-                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Email имя отправителя по умолчанию',
-                'EMAIL_TO' => 'Почта получателя',
-                'EMAIL_TO_PLACEHOLDER' => 'Email адрес получателя по умолчанию',
-                'EMAIL_TO_NAME' => 'Имя почты получателя',
-                'EMAIL_TO_NAME_PLACEHOLDER' => 'Email имя получателя по умолчанию',
-                'EMAIL_CC' => 'Почта CC',
-                'EMAIL_CC_PLACEHOLDER' => 'Email CC адрес по умолчанию',
-                'EMAIL_CC_NAME' => 'Имя почты CC',
-                'EMAIL_CC_NAME_PLACEHOLDER' => 'Email CC имя по умолчанию',
-                'EMAIL_BCC' => 'Почта BCC',
-                'EMAIL_BCC_PLACEHOLDER' => 'Email BCC адрес по умолчанию',
-                'EMAIL_REPLY_TO' => 'Почта для ответов',
-                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Email для ответов адрес по умолчанию',
-                'EMAIL_REPLY_TO_NAME' => 'Имя почты для ответов',
-                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Email для ответов имя по умолчанию',
-                'EMAIL_BODY' => 'Тело сообщения',
-                'EMAIL_BODY_PLACEHOLDER' => 'По умолчанию используется таблица всех полей формы',
-                'SMTP_SERVER' => 'SMTP сервер',
-                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
-                'SMTP_PORT' => 'SMTP порт',
-                'SMTP_PORT_PLACEHOLDER' => 'По умолчанию 25 (plaintext) / 587 (encrypted)',
-                'SMTP_ENCRYPTION' => 'SMTP шифрование',
-                'SMTP_LOGIN_NAME' => 'SMTP логин',
-                'SMTP_PASSWORD' => 'SMTP пароль',
-                'PATH_TO_SENDMAIL' => 'Путь к sendmail',
-                'DEBUG' => 'Отладка',
-                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
-                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Ошибка',
-                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Форма не подтверждена. Отсутствует одно или несколько обязательных полей.',
                 'NONCE_NOT_VALIDATED' => 'Упс, у вас возникла проблема, проверьте свои данные и отправьте форму еще раз.',
@@ -1651,6 +1114,49 @@ Calea: `%2$s`
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'По запросу: <strong>%s</strong> результатов найдено 1',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'По запросу: <strong>%s</strong> результатов найдено %s',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Добавьте не менее %s символов'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Ошибка',
+                'ERROR_MESSAGE' => 'Упс. Похоже, этой страницы не существует.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'MAIL_ENGINE' => 'Почтовая система',
+                'CONTENT_TYPE' => 'Тип контента',
+                'CHARSET' => 'Кодировка',
+                'EMAIL_FORM' => 'Почта отправителя',
+                'EMAIL_FORM_PLACEHOLDER' => 'Email адрес отправителя по умолчанию',
+                'EMAIL_FROM_NAME' => 'Имя почты отправителя',
+                'EMAIL_FROM_NAME_PLACEHOLDER' => 'Email имя отправителя по умолчанию',
+                'EMAIL_TO' => 'Почта получателя',
+                'EMAIL_TO_PLACEHOLDER' => 'Email адрес получателя по умолчанию',
+                'EMAIL_TO_NAME' => 'Имя почты получателя',
+                'EMAIL_TO_NAME_PLACEHOLDER' => 'Email имя получателя по умолчанию',
+                'EMAIL_CC' => 'Почта CC',
+                'EMAIL_CC_PLACEHOLDER' => 'Email CC адрес по умолчанию',
+                'EMAIL_CC_NAME' => 'Имя почты CC',
+                'EMAIL_CC_NAME_PLACEHOLDER' => 'Email CC имя по умолчанию',
+                'EMAIL_BCC' => 'Почта BCC',
+                'EMAIL_BCC_PLACEHOLDER' => 'Email BCC адрес по умолчанию',
+                'EMAIL_REPLY_TO' => 'Почта для ответов',
+                'EMAIL_REPLY_TO_PLACEHOLDER' => 'Email для ответов адрес по умолчанию',
+                'EMAIL_REPLY_TO_NAME' => 'Имя почты для ответов',
+                'EMAIL_REPLY_TO_NAME_PLACEHOLDER' => 'Email для ответов имя по умолчанию',
+                'EMAIL_BODY' => 'Тело сообщения',
+                'EMAIL_BODY_PLACEHOLDER' => 'По умолчанию используется таблица всех полей формы',
+                'SMTP_SERVER' => 'SMTP сервер',
+                'SMTP_SERVER_PLACEHOLDER' => 'e.g. smtp.google.com',
+                'SMTP_PORT' => 'SMTP порт',
+                'SMTP_PORT_PLACEHOLDER' => 'По умолчанию 25 (plaintext) / 587 (encrypted)',
+                'SMTP_ENCRYPTION' => 'SMTP шифрование',
+                'SMTP_LOGIN_NAME' => 'SMTP логин',
+                'SMTP_PASSWORD' => 'SMTP пароль',
+                'PATH_TO_SENDMAIL' => 'Путь к sendmail',
+                'DEBUG' => 'Отладка',
+                'EMAIL_NOT_CONFIGURED' => 'Электронная почта не настроена',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Пожалуйста настройте адрес получателя (\'to\') в настройках плагина Email Plugin, или на форме',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Пожалуйста настройте адрес отправителя (\'from\') в настройках плагина Email Plugin, или на форме',
+                'TEST_EMAIL_BODY' => '<h1>Тестирование электронной почты</h1><p>Это тестовое письмо отправлено на основе следующей конфигурации:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -1739,13 +1245,6 @@ Path: `%2$s`
             ]
         ],
         'uk' => [
-            'PLUGIN_EMAIL' => [
-                'EMAIL_NOT_CONFIGURED' => 'Електронна пошта не налаштована',
-                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Будь ласка налаштуйте адресу одержувача (\'to\') в налаштуваннях плагіна Email Plugin, або на формі',
-                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Будь ласка налаштуйте адресу відправника (\'from\') в налаштуваннях плагіна Email Plugin, або на формі',
-                'TEST_EMAIL_BODY' => '<h1>Тестування електронної пошти</h1><p>Це тестовий лист відправлено на основі такої конфігурації:</p>  <p><pre>%1$s</pre></p>',
-                'EMAIL_FOOTER' => 'GetGrav.org'
-            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Форма не підтверджена. Відсутнє одне або кілька обов\'язкових полів.',
                 'NONCE_NOT_VALIDATED' => 'Упс, у вас виникла проблема, перевірте свої дані і відправте форму ще раз.',
@@ -1804,6 +1303,13 @@ Path: `%2$s`
                 'DESTINATION_NOT_SPECIFIED' => 'Призначення не вказано',
                 'INVALID_MIME_TYPE' => 'Тип MIME %s для файла %s не приймається.',
                 'INVALID_FILE_EXTENSION' => 'Розширення файлу %s не є допустимим для файлу.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Електронна пошта не налаштована',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Будь ласка налаштуйте адресу одержувача (\'to\') в налаштуваннях плагіна Email Plugin, або на формі',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Будь ласка налаштуйте адресу відправника (\'from\') в налаштуваннях плагіна Email Plugin, або на формі',
+                'TEST_EMAIL_BODY' => '<h1>Тестування електронної пошти</h1><p>Це тестовий лист відправлено на основі такої конфігурації:</p>  <p><pre>%1$s</pre></p>',
+                'EMAIL_FOOTER' => 'GetGrav.org'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -1884,367 +1390,112 @@ Path: `%2$s`
                 6 => 'Неділя'
             ]
         ],
-        'zh' => [
-            'PLUGIN_ERROR' => [
-                'ERROR' => '错误',
-                'ERROR_MESSAGE' => '呃，似乎这个页面不存在。'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => '搜索 …',
-                'SEARCH_RESULTS' => '搜索结果',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => '查询: <strong>%s</strong> 找到 1 个结果',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => '查询: <strong>%s</strong> 找到 %s 个结果'
-            ]
-        ],
-        'cs' => [
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Chyba',
-                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
-            ],
+        'hr' => [
             'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formulář nebyl ověřen. Chybí jedno nebo více povinných polí.',
-                'NONCE_NOT_VALIDATED' => 'Jejda, došlo k problému, zkontrolujte vstupní stránku a znovu odešlete formulář.',
-                'FILES' => 'Nahrávání souborů',
-                'ALLOW_MULTIPLE' => 'Povolit více než jeden soubor',
-                'ALLOW_MULTIPLE_HELP' => 'Umožňuje vybrat více než jeden soubor pro nahrání.',
-                'DESTINATION' => 'Cílové umístění',
-                'DESTINATION_HELP' => 'Místo, kam mají být soubory nahrány',
-                'ACCEPT' => 'Povolené MIME typy',
-                'ACCEPT_HELP' => 'Seznam MIME typů souborů povolených pro upload',
-                'ERROR_VALIDATING_CAPTCHA' => 'Nepodařilo se ověřit CAPTCHA (kontrola proti spamu)',
-                'DATA_SUMMARY' => 'Shrnutí toho, co jste nám napsali:',
-                'NO_FORM_DATA' => 'Formulář neobsahuje žádná data',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Site key',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Více informací https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Secret key',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Více informací https://developers.google.com/recaptcha',
-                'GENERAL' => 'Všeobecné',
-                'USE_BUILT_IN_CSS' => 'Použít built-in CSS',
-                'FILEUPLOAD_PREVENT_SELF' => 'Nelze použít "% s" mimo stránky.',
-                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nelze nahrát soubor %s: %s',
-                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nelze přesunout soubor %s do "%s"',
-                'DROPZONE_CANCEL_UPLOAD' => 'Zrušit upload',
-                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Opravdu chcete zrušit nahrávání souboru?',
-                'DROPZONE_DEFAULT_MESSAGE' => 'Přetáhněte sem soubory nebo <strong>klikněte v tomto prostoru</strong>',
-                'DROPZONE_FALLBACK_MESSAGE' => 'Váš prohlížeč nepodporuje nahrávání souborů táhni a pusť.',
-                'DROPZONE_FALLBACK_TEXT' => 'Použijte níže uvedený formulář pro nahrání souborů, jako v minulých dnech.',
-                'DROPZONE_FILE_TOO_BIG' => 'Soubor je příliš velký ({{filesize}}MiB). Max. velikost souboru: {{maxFilesize}}MiB.',
-                'DROPZONE_INVALID_FILE_TYPE' => 'Nelze nahrát soubory tohoto typu.',
-                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nelze nahrát další soubory.',
-                'DROPZONE_REMOVE_FILE' => 'Odstranit soubor',
-                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Opravdu chcete tento soubor smazat?',
-                'DROPZONE_RESPONSE_ERROR' => 'Server vrátil chybový kód: {{statusCode}}.',
-                'YES' => 'Ano',
-                'NO' => 'Ne'
+                'NOT_VALIDATED' => 'Formular nije validiran. Jedan ili više traženih polja nedostaju.',
+                'NONCE_NOT_VALIDATED' => 'Ups, došlo je do problema, molimo provjerite svoj unos i pokušajte opet.',
+                'FILES' => 'Upload Fajlova',
+                'ALLOW_MULTIPLE' => 'Dopusti više od jednog fajla',
+                'DESTINATION' => 'Destinacija',
+                'DESTINATION_HELP' => 'Lokacija gdje bi fajlovi trebali biti uploadani',
+                'ACCEPT' => 'Dopušteni MIME Tipovi',
+                'ACCEPT_HELP' => 'Lista dopuštenih MIME Tipova koji su dozvoljeni za upload',
+                'ERROR_VALIDATING_CAPTCHA' => 'Greška pri validiranju Captcha'
             ],
             'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Vyhledat …',
-                'SEARCH_RESULTS' => 'Výsledky hledání',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Hledání výrazu \'<strong>%s</strong>\' našlo jeden výsledek',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Hledání výrazu \'<strong>%s</strong>\' našlo %s výsledků'
+                'SEARCH_PLACEHOLDER' => 'Traži …',
+                'SEARCH_RESULTS' => 'Rezultati pretrage',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Upit: <strong>%s</strong> je pronašao jedan rezultat',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Upit: <strong>%s</strong> je pronašao %s rezultata'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Greška',
+                'ERROR_MESSAGE' => 'Uups. Izgleda da ova stranica ne postoji.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Email nije konfiguriran',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurirajte \'za\' (\'to\') adresu u postavkama Email dodatka ili u obrascu',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurirajte \'od\' (\'from\') adresu u postavkama Email dodatka ili u obrascu'
             ],
             'INFLECTOR_UNCOUNTABLE' => [
-                0 => 'vybavení',
-                1 => 'informace',
-                2 => 'rýže',
-                3 => 'peníze',
-                4 => 'druhy',
-                5 => 'série',
-                6 => 'ryba',
-                7 => 'ovce'
+                0 => 'oprema',
+                1 => 'informacije',
+                2 => 'riža',
+                3 => 'novac',
+                4 => 'vrsta',
+                5 => 'serija',
+                6 => 'riba',
+                7 => 'ovca'
             ],
             'INFLECTOR_IRREGULAR' => [
-                'person' => 'lidé',
-                'man' => 'muži',
-                'child' => 'děti',
-                'sex' => 'pohlaví',
-                'move' => 'pohyby'
-            ],
-            'INFLECTOR_ORDINALS' => [
-                'default' => '.',
-                'first' => '.',
-                'second' => '.',
-                'third' => '.'
+                'person' => 'osobe',
+                'man' => 'ljudi',
+                'child' => 'djeca',
+                'sex' => 'spolovi',
+                'move' => 'Pomakni'
             ],
             'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Datum nebylo vloženo',
-                'BAD_DATE' => 'Chybné datum',
-                'AGO' => 'zpět',
-                'FROM_NOW' => 'od teď',
+                'NO_DATE_PROVIDED' => 'Datum nije upisan',
+                'BAD_DATE' => 'Pogrešan datum',
+                'AGO' => 'prije',
+                'FROM_NOW' => 'od sada',
                 'SECOND' => 'sekunda',
                 'MINUTE' => 'minuta',
-                'HOUR' => 'hodina',
-                'DAY' => 'den',
-                'WEEK' => 'týden',
-                'MONTH' => 'měsíc',
-                'YEAR' => 'rok',
-                'DECADE' => 'dekáda',
+                'HOUR' => 'sat',
+                'DAY' => 'dan',
+                'WEEK' => 'tjedan',
+                'MONTH' => 'mjesec',
+                'YEAR' => 'godina',
+                'DECADE' => 'desetljeće',
                 'SEC' => 'sek',
-                'MIN' => 'min',
-                'HR' => 'hod',
+                'HR' => 'sat',
                 'WK' => 't',
                 'MO' => 'm',
-                'YR' => 'r',
-                'DEC' => 'dek',
-                'SECOND_PLURAL' => 'sekundy',
-                'MINUTE_PLURAL' => 'minuty',
-                'HOUR_PLURAL' => 'hodiny',
-                'DAY_PLURAL' => 'dny',
-                'WEEK_PLURAL' => 'týdny',
-                'MONTH_PLURAL' => 'měsíce',
-                'YEAR_PLURAL' => 'roky',
-                'DECADE_PLURAL' => 'dekády',
+                'YR' => 'g',
+                'DEC' => 'des',
+                'SECOND_PLURAL' => 'sekundi',
+                'MINUTE_PLURAL' => 'minuta',
+                'HOUR_PLURAL' => 'sati',
+                'DAY_PLURAL' => 'dan',
+                'WEEK_PLURAL' => 'tjedana',
+                'MONTH_PLURAL' => 'mjeseci',
+                'YEAR_PLURAL' => 'godina',
+                'DECADE_PLURAL' => 'desetljeća',
                 'SEC_PLURAL' => 'sek',
                 'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'hod',
+                'HR_PLURAL' => 'sat',
                 'WK_PLURAL' => 't',
                 'MO_PLURAL' => 'm',
-                'YR_PLURAL' => 'r',
-                'DEC_PLURAL' => 'dek'
+                'YR_PLURAL' => 'g',
+                'DEC_PLURAL' => 'des'
             ],
             'FORM' => [
-                'VALIDATION_FAIL' => '<b>Ověření se nezdařilo:</b>',
-                'INVALID_INPUT' => 'Neplatný vstup v',
-                'MISSING_REQUIRED_FIELD' => 'Chybí požadované pole:'
+                'VALIDATION_FAIL' => '<b>Validacija nije uspjela:</b>',
+                'INVALID_INPUT' => 'Pogrešan unos u',
+                'MISSING_REQUIRED_FIELD' => 'Nedostaje obavezno polje:'
             ],
             'MONTHS_OF_THE_YEAR' => [
-                0 => 'ledna',
-                1 => 'února',
-                2 => 'března',
-                3 => 'dubna',
-                4 => 'května',
-                5 => 'června',
-                6 => 'července',
-                7 => 'srpna',
-                8 => 'září',
-                9 => 'října',
-                10 => 'listopadu',
-                11 => 'prosince'
+                0 => 'Siječanj',
+                1 => 'Veljača',
+                2 => 'Ožujak',
+                3 => 'Travanj',
+                4 => 'Svibanj',
+                5 => 'Lipanj',
+                6 => 'Srpanj',
+                7 => 'Kolovoz',
+                8 => 'Rujan',
+                9 => 'Listopad',
+                10 => 'Studeni',
+                11 => 'Prosinac'
             ],
             'DAYS_OF_THE_WEEK' => [
-                0 => 'Pondělí',
-                1 => 'Úterý',
-                2 => 'Středa',
-                3 => 'Čtvrtek',
-                4 => 'Pátek',
-                5 => 'Sobota',
-                6 => 'Neděle'
-            ]
-        ],
-        'pl' => [
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Błąd',
-                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
-            ],
-            'PLUGIN_FORM' => [
-                'NOT_VALIDATED' => 'Formularz został odrzucony. Jedno lub więcej pól wymaga wypełnienia.',
-                'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdź czy wszystkie pola zostały wypełnione i wyślij formularz ponownie.',
-                'FILES' => 'Plik przesłany.',
-                'FORM_ALREADY_SUBMITTED' => 'Ten formularz został już wysłany.',
-                'ALLOW_MULTIPLE' => 'Zezwól na więcej niż jeden plik.',
-                'ALLOW_MULTIPLE_HELP' => 'Zezwól na przesłanie więcej niż jednego pliku.',
-                'DESTINATION' => 'Przeznaczenie.',
-                'DESTINATION_HELP' => 'Lokalizacja przesłanego pliku.',
-                'ACCEPT' => 'Zezwól na typ MIME.',
-                'ACCEPT_HELP' => 'Lista wspieranych do przesłania typów MIME.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Błąd walidacji Captcha.',
-                'DATA_SUMMARY' => 'Oto podsumowanie informacji, które do nas napisałeś:',
-                'NO_FORM_DATA' => 'Brak dostępnych danych formularza',
-                'RECAPTCHA' => 'ReCaptcha',
-                'RECAPTCHA_SITE_KEY' => 'Klucz strony',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
-                'RECAPTCHA_SECRET_KEY' => 'Tajny klucz',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
-                'GENERAL' => 'Ogólne',
-                'USE_BUILT_IN_CSS' => 'Użyj wbudowanych styli CSS',
-                'FILEUPLOAD_PREVENT_SELF' => 'Nie można użyć "%s" poza stronami.',
-                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nie można przesłać plików %s: %s',
-                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nie można przenieść plików z %s do "%s"',
-                'DROPZONE_CANCEL_UPLOAD' => 'Anuluj przesyłanie',
-                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Czy na pewno chcesz anulować przesyłanie?',
-                'DROPZONE_DEFAULT_MESSAGE' => 'Upuść pliki tutaj lub <strong>kliknij w tym obszarze</strong>',
-                'DROPZONE_FALLBACK_MESSAGE' => 'Twoja przelądarka nie obsługują funkcji przeciągnij i upuść.',
-                'DROPZONE_FALLBACK_TEXT' => 'Proszę użyć zapasowego formularza do przesyłania plików znajdującego się poniżej.',
-                'DROPZONE_FILE_TOO_BIG' => 'Plik jest zbyt duży ({{filesize}}MiB). Maksymalna wielkość pliku to: {{maxFilesize}}MiB.',
-                'DROPZONE_INVALID_FILE_TYPE' => 'Nie można przesłać pliku. Format nie jest obsługiwany.',
-                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nie można przesłać więcej plików.',
-                'DROPZONE_REMOVE_FILE' => 'Usuń plik',
-                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Czy na pewno chcesz usunąć plik?',
-                'DROPZONE_RESPONSE_ERROR' => 'Status serwera {{statusCode}}.',
-                'YES' => 'Tak',
-                'NO' => 'Nie',
-                'REFRESH_PREVENTION' => 'Zapobiegaj odświeżaniu',
-                'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID , aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.'
-            ],
-            'PLUGIN_SIMPLESEARCH' => [
-                'SEARCH_PLACEHOLDER' => 'Szukaj…',
-                'SEARCH_RESULTS' => 'Wyniki wyszukiwania',
-                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Znaleziono jeden wynik dla frazy <strong>%s</strong>.',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Znaleziono %2$s wyników dla frazy <strong>%1$s</strong>.',
-                'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Fraza musi składać się z minimum %s znaków.'
-            ],
-            'FRONTMATTER_ERROR_PAGE' => '---
-title: %1$s
----
-
-# Error: Nieprawidłowy Frontmatter
-
-Path: `%2$s`
-
-**%3$s**
-
-```
-%4$s
-```
-',
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'Nie podano daty',
-                'BAD_DATE' => 'Zła data',
-                'AGO' => 'temu',
-                'FROM_NOW' => 'od teraz',
-                'SECOND' => 'sekunda',
-                'MINUTE' => 'minuta',
-                'HOUR' => 'godzina',
-                'DAY' => 'dzień',
-                'WEEK' => 'tydzień',
-                'MONTH' => 'miesiąc',
-                'YEAR' => 'rok',
-                'DECADE' => 'dekada',
-                'SEC' => 'sek',
-                'MIN' => 'min',
-                'HR' => 'godz',
-                'WK' => 'tydz',
-                'MO' => 'm-c',
-                'YR' => 'rok',
-                'DEC' => 'dekada',
-                'SECOND_PLURAL' => 'sekund',
-                'MINUTE_PLURAL' => 'minut',
-                'HOUR_PLURAL' => 'godzin',
-                'DAY_PLURAL' => 'dni',
-                'WEEK_PLURAL' => 'tygodnie',
-                'MONTH_PLURAL' => 'miesięcy',
-                'YEAR_PLURAL' => 'lat',
-                'DECADE_PLURAL' => 'dekad',
-                'SEC_PLURAL' => 'sek',
-                'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'godz',
-                'WK_PLURAL' => 'tyg',
-                'MO_PLURAL' => 'm-ce',
-                'YR_PLURAL' => 'lat',
-                'DEC_PLURAL' => 'dekad'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Weryfikacja nie powiodła się:</b>',
-                'INVALID_INPUT' => 'Nieprawidłowe dane wejściowe',
-                'MISSING_REQUIRED_FIELD' => 'Opuszczono wymagane pole:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Styczeń',
-                1 => 'Luty',
-                2 => 'Marzec',
-                3 => 'Kwiecień',
-                4 => 'Maj',
-                5 => 'Czerwiec',
-                6 => 'Lipiec',
-                7 => 'Sierpień',
-                8 => 'Wrzesień',
-                9 => 'Październik',
-                10 => 'Listopad',
-                11 => 'Grudzień'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Poniedziałek',
-                1 => 'Wtorek',
-                2 => 'Środa',
-                3 => 'Czwartek',
-                4 => 'Piątek',
-                5 => 'Sobota',
-                6 => 'Niedziela'
-            ]
-        ],
-        'ca' => [
-            'PLUGIN_ERROR' => [
-                'ERROR' => 'Error',
-                'ERROR_MESSAGE' => 'Ups. Sembla que aquesta pàgina no existeix.'
-            ],
-            'FRONTMATTER_ERROR_PAGE' => '---
-title: %1$s
----
-
-# S\'ha produït un error: Frontmatter invàlid
-
-Ruta: `%2$s`
-
-**%3$s**
-
-```
-%4$s
-```
-',
-            'NICETIME' => [
-                'NO_DATE_PROVIDED' => 'No s\'ha proporcionat data',
-                'BAD_DATE' => 'Data invàlida',
-                'AGO' => 'abans',
-                'FROM_NOW' => 'des d\'ara',
-                'SECOND' => 'segon',
-                'MINUTE' => 'minut',
-                'HOUR' => 'hora',
-                'DAY' => 'dia',
-                'WEEK' => 'setmana',
-                'MONTH' => 'mes',
-                'YEAR' => 'any',
-                'DECADE' => 'dècada',
-                'SEC' => 's',
-                'MIN' => 'min',
-                'HR' => 'h',
-                'WK' => 'setm.',
-                'MO' => 'm.',
-                'YR' => 'a.',
-                'DEC' => 'dèc.',
-                'SECOND_PLURAL' => 'segons',
-                'MINUTE_PLURAL' => 'minuts',
-                'HOUR_PLURAL' => 'hores',
-                'DAY_PLURAL' => 'dies',
-                'WEEK_PLURAL' => 'setmanes',
-                'MONTH_PLURAL' => 'mesos',
-                'YEAR_PLURAL' => 'anys',
-                'DECADE_PLURAL' => 'dècades',
-                'SEC_PLURAL' => 's',
-                'MIN_PLURAL' => 'min',
-                'HR_PLURAL' => 'h',
-                'WK_PLURAL' => 'setm.',
-                'MO_PLURAL' => 'mesos',
-                'YR_PLURAL' => 'anys',
-                'DEC_PLURAL' => 'dèc.'
-            ],
-            'FORM' => [
-                'VALIDATION_FAIL' => '<b>Ha fallat la validació:</b>',
-                'INVALID_INPUT' => 'Entrada no vàlida a',
-                'MISSING_REQUIRED_FIELD' => 'Falta camp obligatori:'
-            ],
-            'MONTHS_OF_THE_YEAR' => [
-                0 => 'Gener',
-                1 => 'Febrer',
-                2 => 'Març',
-                3 => 'Abril',
-                4 => 'Maig',
-                5 => 'Juny',
-                6 => 'Juliol',
-                7 => 'Agost',
-                8 => 'Setembre',
-                9 => 'Octubre',
-                10 => 'Novembre',
-                11 => 'Desembre'
-            ],
-            'DAYS_OF_THE_WEEK' => [
-                0 => 'Dilluns',
-                1 => 'Dimarts',
-                2 => 'Dimecres',
-                3 => 'Dijous',
-                4 => 'Divendres',
-                5 => 'Dissabte',
-                6 => 'Diumenge'
+                0 => 'Ponedjeljak',
+                1 => 'Utorak',
+                2 => 'Srijeda',
+                3 => 'Četvrtak',
+                4 => 'Petak',
+                5 => 'Subota',
+                6 => 'Nedjelja'
             ]
         ],
         'hu' => [
@@ -2405,6 +1656,565 @@ Elérési út: `%2$s`
                 4 => 'péntek',
                 5 => 'szombat',
                 6 => 'vasárnap'
+            ]
+        ],
+        'it' => [
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Il Form risulta invalido. Uno o più campi risultano omessi.',
+                'NONCE_NOT_VALIDATED' => 'Oops è stato riscontrato un errore, si prega di ricontrollare i dati inseriti e provare di nuovo.',
+                'FILES' => 'Invio dei Files',
+                'ALLOW_MULTIPLE' => 'Consenti più di un file',
+                'ALLOW_MULTIPLE_HELP' => 'Permette la selezione di più di un file per l\'upload',
+                'DESTINATION' => 'Destinazione',
+                'DESTINATION_HELP' => 'La destinazione dove i files vengono uploadati',
+                'ACCEPT' => 'Tipi di MIME Concessi',
+                'ACCEPT_HELP' => 'Una lista di tipi di MIME che sono permessi per l\'upload',
+                'ERROR_VALIDATING_CAPTCHA' => 'Errore durante la validazione del Captcha',
+                'DATA_SUMMARY' => 'Ecco il riassunto di ciò che ci hai scritto:',
+                'NO_FORM_DATA' => 'Nessuna informazione disponibile',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Site key',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Chiave segreta',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Per maggiori informazioni visita https://developers.google.com/recaptcha',
+                'GENERAL' => 'Generale',
+                'USE_BUILT_IN_CSS' => 'Usa CSS incorporato',
+                'FILEUPLOAD_PREVENT_SELF' => 'Non si può usare "%s" fuori dalle pagine.',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Impossibile caricare il file %s: %s',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Impossibile muovere il file %s to "%s"',
+                'DROPZONE_CANCEL_UPLOAD' => 'Trasferimento annullato',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Sei sicuro di voler cancellare questo trasferimento?',
+                'DROPZONE_DEFAULT_MESSAGE' => 'Trascina qui i tuoi file o <strong>clicca su quest\'area</strong>',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Il tuo browser non supporta il trascinamento dei file per il trasferimento.',
+                'DROPZONE_FALLBACK_TEXT' => 'Utilizza il modulo di riserva qui sotto per caricare i tuoi file come ai vecchi tempi.',
+                'DROPZONE_FILE_TOO_BIG' => 'Il file è troppo grande ({{filesize}}MiB). Dimensione massima consentita: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Non puoi caricare questo tipo di file',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Non puoi caricare ulteriori file, hai raggiunto il limite consentito.',
+                'DROPZONE_REMOVE_FILE' => 'Rimuovi il file',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Sei sicuro di voler eliminare questo file??',
+                'DROPZONE_RESPONSE_ERROR' => 'Il Server ha risposto con il codice {{statusCode}}.',
+                'YES' => 'Si',
+                'NO' => 'No'
+            ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Cerca …',
+                'SEARCH_RESULTS' => 'Risultati della ricerca',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Ricerca: <strong>%s</strong>. Trovato un risultato',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Ricerca: <strong>%s</strong>. Trovati %s risultati',
+                'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Inserisci almeno %s caratteri'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Errore',
+                'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Per favore, configura l\'indirizzo di provenienza (\'from\') nella configurazione del Plugin Email, oppure direttamente nella form'
+            ],
+            'FRONTMATTER_ERROR_PAGE' => '---Titolo: %1$s---# Errore: Frontmatter non valido: \'%2$s\' * *%3$s * * \' \'%4$s \' \'',
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'Nessuna data fornita',
+                'BAD_DATE' => 'Data non valida',
+                'AGO' => 'fa',
+                'FROM_NOW' => 'da adesso',
+                'SECOND' => 'secondo',
+                'MINUTE' => 'minuto',
+                'HOUR' => 'ora',
+                'DAY' => 'giorno',
+                'WEEK' => 'settimana',
+                'MONTH' => 'mese',
+                'YEAR' => 'anno',
+                'DECADE' => 'decennio',
+                'SEC' => 'sec',
+                'MIN' => 'min',
+                'HR' => 'ora',
+                'WK' => 'settimana',
+                'MO' => 'mese',
+                'YR' => 'anno',
+                'DEC' => 'decennio',
+                'SECOND_PLURAL' => 'secondi',
+                'MINUTE_PLURAL' => 'minuti',
+                'HOUR_PLURAL' => 'ore',
+                'DAY_PLURAL' => 'giorni',
+                'WEEK_PLURAL' => 'settimane',
+                'MONTH_PLURAL' => 'mesi',
+                'YEAR_PLURAL' => 'anni',
+                'DECADE_PLURAL' => 'decadi',
+                'SEC_PLURAL' => 'secondi',
+                'MIN_PLURAL' => 'minuti',
+                'HR_PLURAL' => 'ore',
+                'WK_PLURAL' => 'settimane',
+                'MO_PLURAL' => 'mesi',
+                'YR_PLURAL' => 'anni',
+                'DEC_PLURAL' => 'decenni'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Validazione fallita:</b>',
+                'INVALID_INPUT' => 'Input non valido in',
+                'MISSING_REQUIRED_FIELD' => 'Campo richiesto mancante:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'Gennaio',
+                1 => 'Febbraio',
+                2 => 'Marzo',
+                3 => 'Aprile',
+                4 => 'Maggio',
+                5 => 'Giugno',
+                6 => 'Luglio',
+                7 => 'Agosto',
+                8 => 'Settembre',
+                9 => 'Ottobre',
+                10 => 'Novembre',
+                11 => 'Dicembre'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Lunedì',
+                1 => 'Martedì',
+                2 => 'Mercoledì',
+                3 => 'Giovedì',
+                4 => 'Venerdì',
+                5 => 'Sabato',
+                6 => 'Domenica'
+            ]
+        ],
+        'ro' => [
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formularul nu a fost validat. Unul sau mai multe câmpuri sunt goale.',
+                'NONCE_NOT_VALIDATED' => 'Oops a apărut o problemă, vă rugăm verificați datele introduse și trimiteți formularul din nou.',
+                'FILES' => 'Încărcare fișiere',
+                'ALLOW_MULTIPLE' => 'Permiteți mai multe fișiere',
+                'ALLOW_MULTIPLE_HELP' => 'Vă permite să selectați mai multe fișiere pentru încărcare.',
+                'DESTINATION' => 'Destinație',
+                'DESTINATION_HELP' => 'Locația unde vor fi încărcate fișierele.',
+                'ACCEPT' => 'Permite tipuri MIME ',
+                'ACCEPT_HELP' => 'O listă cu tipuri MIME care sunt permise la încărcare.',
+                'ERROR_VALIDATING_CAPTCHA' => 'Eroare la validarea Captcha.',
+                'DATA_SUMMARY' => 'Mai jos aveți un rezumat al mesajului pe care ni l-ați trimis:',
+                'NO_FORM_DATA' => 'Nu e disponibilă nici o dată pentru formular',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Cheia pentru Site',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Cheia secretă pentru Site',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Pentru mai multe detalii vă rugăm vizitați  https://developers.google.com/recaptcha'
+            ],
+            'PLUGIN_REL_PAGES' => [
+                'BASICS' => 'Setări de bază',
+                'LIMIT' => 'Limită',
+                'LIMIT_HELP' => 'Numărul afișat al paginilor legate',
+                'ORDER' => 'Ordinea',
+                'ORDER_BY' => 'Ordonează după',
+                'SHOW_SCORE' => 'Arată scorul',
+                'SHOW_SCORE_HELP' => 'Comutați pentru afișarea scorurilor',
+                'ITEMS' => 'Articole',
+                'ITEMS_HELP' => 'Acceptă colecții bazate pe `@self`, `@page` și `@taxonomy`',
+                'PAGE_IN_FILTER' => 'Filtru \'in\' pagină',
+                'PAGE_IN_FILTER_HELP' => 'Activează dacă pagina curentă trebuie să fie în colecția filtrată',
+                'EXPLICIT_PROCESS' => 'Procesează anumite pagini specifice',
+                'EXPLICIT_PROCESS_HELP' => 'Activează pentru procesarea anumitor pagini specifice',
+                'EXPLICIT_SCORE' => 'Scorul paginilor specifice',
+                'EXPLICIT_SCORE_HELP' => 'Un scor între (0 - 100) pentru a da unor pagini specifice greutate',
+                'TAXONOMY_MATCH' => 'Potrivire după Taxonomie',
+                'TAXONOMY' => 'Taxonomie',
+                'TAXONOMY_HELP' => 'Ce fel de taxonomie să fie folosită la potrivirea paginilor',
+                'TAXONOMY_TAXONOMY_PROCESS' => 'Taxonomie-taxonomie',
+                'TAXONOMY_TAXONOMY_PROCESS_HELP' => 'Activeazā potrivirea între taxonomii',
+                'TAXONOMY_CONTENT_PROCESS' => 'Taxonomie-conținut',
+                'TAXONOMY_CONTENT_PROCESS_HELP' => 'Activează potrivirea după taxonomie - conținut',
+                'CONTENT_MATCH' => 'Potrivirea după conținut',
+                'CONTENT_PROCESS' => 'Conținut-conținut',
+                'CONTENT_PROCESS_HELP' => 'Activează pentru potrivire după conținut (Notă: dezactivați dacă aveți conținut mult)',
+                'ADVANCED' => 'Avansat',
+                'TAXONOMY_SCORE_SCALE' => 'Scorul scalei Taxonomie-taxonomie',
+                'CONTENT_SCORE_SCALE' => 'Scorul scalei Taxonomie-conținut'
+            ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Caută …',
+                'SEARCH_RESULTS' => 'Rezultatele căutării',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Căutarea: <strong>%s</strong> a găsit un rezultat',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Căutarea: <strong>%s</strong> a găsit %s rezultate'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Eroare',
+                'ERROR_MESSAGE' => 'Ooops. Se pare că pagina nu există.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'EMAIL_NOT_CONFIGURED' => 'Adresa de email nu este configurată',
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Vă rugam setați o adresă \'către\' în setările modulului Email sau în formular',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Vă rugam setați o adresă \'de la\' în setările modulului Email sau în formular'
+            ],
+            'FRONTMATTER_ERROR_PAGE' => '---
+Titlu: %1$s
+---
+# Eroare: Frontmatter este invalid
+
+Calea: `%2$s`
+
+**%3$s**
+
+```
+%4$s
+',
+            'INFLECTOR_PLURALS' => [
+                '/(quiz)$/i' => '\\1zes',
+                '/^(ox)$/i' => '\\1en',
+                '/([m|l])ouse$/i' => '\\1ice',
+                '/(matr|vert|ind)ix|ex$/i' => '\\1ices',
+                '/(x|ch|ss|sh)$/i' => '\\1es',
+                '/([^aeiouy]|qu)ies$/i' => '\\1y',
+                '/([^aeiouy]|qu)y$/i' => '\\1ies',
+                '/(hive)$/i' => '\\1s',
+                '/(?:([^f])fe|([lr])f)$/i' => '\\1\\2ves',
+                '/sis$/i' => 'ses',
+                '/([ti])um$/i' => '\\1a',
+                '/(buffal|tomat)o$/i' => '\\1oes'
+            ],
+            'INFLECTOR_UNCOUNTABLE' => [
+                0 => 'echipament',
+                1 => 'informaţie',
+                2 => 'orez',
+                3 => 'bani',
+                4 => 'specii',
+                5 => 'serii',
+                6 => 'peşte',
+                7 => 'oaie'
+            ],
+            'INFLECTOR_IRREGULAR' => [
+                'person' => 'persoane',
+                'man' => 'bărbați',
+                'child' => 'copii',
+                'sex' => 'sexe',
+                'move' => 'mutări'
+            ],
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'Nu există o dată prevăzută',
+                'BAD_DATE' => 'Dată incorectă',
+                'AGO' => 'în urmă',
+                'FROM_NOW' => 'de acum',
+                'SECOND' => 'secundă',
+                'MINUTE' => 'minut',
+                'HOUR' => 'oră',
+                'DAY' => 'zi',
+                'WEEK' => 'săptămână',
+                'MONTH' => 'lună',
+                'YEAR' => 'an',
+                'DECADE' => 'decadă',
+                'SEC' => 'sec',
+                'MIN' => 'min',
+                'HR' => 'oră',
+                'WK' => 'săpt',
+                'MO' => 'lună',
+                'YR' => 'an',
+                'DEC' => 'decadă',
+                'SECOND_PLURAL' => 'secunde',
+                'MINUTE_PLURAL' => 'minute',
+                'HOUR_PLURAL' => 'ore',
+                'DAY_PLURAL' => 'zile',
+                'WEEK_PLURAL' => 'săptămâni',
+                'MONTH_PLURAL' => 'luni',
+                'YEAR_PLURAL' => 'ani',
+                'DECADE_PLURAL' => 'decade',
+                'SEC_PLURAL' => 'sec',
+                'MIN_PLURAL' => 'min',
+                'HR_PLURAL' => 'ore',
+                'WK_PLURAL' => 'săpt',
+                'MO_PLURAL' => 'luni',
+                'YR_PLURAL' => 'ani',
+                'DEC_PLURAL' => 'decenii'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Validare nereușită</b>',
+                'INVALID_INPUT' => 'Date incorecte în',
+                'MISSING_REQUIRED_FIELD' => 'Câmp obligatoriu lipsă:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'Ianuarie',
+                1 => 'Februarie',
+                2 => 'Martie',
+                3 => 'Aprilie',
+                4 => 'Mai',
+                5 => 'Iunie',
+                6 => 'Iulie',
+                7 => 'August',
+                8 => 'Septembrie',
+                9 => 'Octombrie',
+                10 => 'Noiembrie',
+                11 => 'Decembrie'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Luni',
+                1 => 'Marți',
+                2 => 'Miercuri',
+                3 => 'Joi',
+                4 => 'Vineri',
+                5 => 'Sâmbătă',
+                6 => 'Duminică'
+            ]
+        ],
+        'cs' => [
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formulář nebyl ověřen. Chybí jedno nebo více povinných polí.',
+                'NONCE_NOT_VALIDATED' => 'Jejda, došlo k problému, zkontrolujte vstupní stránku a znovu odešlete formulář.',
+                'FILES' => 'Nahrávání souborů',
+                'ALLOW_MULTIPLE' => 'Povolit více než jeden soubor',
+                'ALLOW_MULTIPLE_HELP' => 'Umožňuje vybrat více než jeden soubor pro nahrání.',
+                'DESTINATION' => 'Cílové umístění',
+                'DESTINATION_HELP' => 'Místo, kam mají být soubory nahrány',
+                'ACCEPT' => 'Povolené MIME typy',
+                'ACCEPT_HELP' => 'Seznam MIME typů souborů povolených pro upload',
+                'ERROR_VALIDATING_CAPTCHA' => 'Nepodařilo se ověřit CAPTCHA (kontrola proti spamu)',
+                'DATA_SUMMARY' => 'Shrnutí toho, co jste nám napsali:',
+                'NO_FORM_DATA' => 'Formulář neobsahuje žádná data',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Site key',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Více informací https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Secret key',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Více informací https://developers.google.com/recaptcha',
+                'GENERAL' => 'Všeobecné',
+                'USE_BUILT_IN_CSS' => 'Použít built-in CSS',
+                'FILEUPLOAD_PREVENT_SELF' => 'Nelze použít "% s" mimo stránky.',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nelze nahrát soubor %s: %s',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nelze přesunout soubor %s do "%s"',
+                'DROPZONE_CANCEL_UPLOAD' => 'Zrušit upload',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Opravdu chcete zrušit nahrávání souboru?',
+                'DROPZONE_DEFAULT_MESSAGE' => 'Přetáhněte sem soubory nebo <strong>klikněte v tomto prostoru</strong>',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Váš prohlížeč nepodporuje nahrávání souborů táhni a pusť.',
+                'DROPZONE_FALLBACK_TEXT' => 'Použijte níže uvedený formulář pro nahrání souborů, jako v minulých dnech.',
+                'DROPZONE_FILE_TOO_BIG' => 'Soubor je příliš velký ({{filesize}}MiB). Max. velikost souboru: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Nelze nahrát soubory tohoto typu.',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nelze nahrát další soubory.',
+                'DROPZONE_REMOVE_FILE' => 'Odstranit soubor',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Opravdu chcete tento soubor smazat?',
+                'DROPZONE_RESPONSE_ERROR' => 'Server vrátil chybový kód: {{statusCode}}.',
+                'YES' => 'Ano',
+                'NO' => 'Ne'
+            ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Vyhledat …',
+                'SEARCH_RESULTS' => 'Výsledky hledání',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Hledání výrazu \'<strong>%s</strong>\' našlo jeden výsledek',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Hledání výrazu \'<strong>%s</strong>\' našlo %s výsledků'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Chyba',
+                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
+            ],
+            'INFLECTOR_UNCOUNTABLE' => [
+                0 => 'vybavení',
+                1 => 'informace',
+                2 => 'rýže',
+                3 => 'peníze',
+                4 => 'druhy',
+                5 => 'série',
+                6 => 'ryba',
+                7 => 'ovce'
+            ],
+            'INFLECTOR_IRREGULAR' => [
+                'person' => 'lidé',
+                'man' => 'muži',
+                'child' => 'děti',
+                'sex' => 'pohlaví',
+                'move' => 'pohyby'
+            ],
+            'INFLECTOR_ORDINALS' => [
+                'default' => '.',
+                'first' => '.',
+                'second' => '.',
+                'third' => '.'
+            ],
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'Datum nebylo vloženo',
+                'BAD_DATE' => 'Chybné datum',
+                'AGO' => 'zpět',
+                'FROM_NOW' => 'od teď',
+                'SECOND' => 'sekunda',
+                'MINUTE' => 'minuta',
+                'HOUR' => 'hodina',
+                'DAY' => 'den',
+                'WEEK' => 'týden',
+                'MONTH' => 'měsíc',
+                'YEAR' => 'rok',
+                'DECADE' => 'dekáda',
+                'SEC' => 'sek',
+                'MIN' => 'min',
+                'HR' => 'hod',
+                'WK' => 't',
+                'MO' => 'm',
+                'YR' => 'r',
+                'DEC' => 'dek',
+                'SECOND_PLURAL' => 'sekundy',
+                'MINUTE_PLURAL' => 'minuty',
+                'HOUR_PLURAL' => 'hodiny',
+                'DAY_PLURAL' => 'dny',
+                'WEEK_PLURAL' => 'týdny',
+                'MONTH_PLURAL' => 'měsíce',
+                'YEAR_PLURAL' => 'roky',
+                'DECADE_PLURAL' => 'dekády',
+                'SEC_PLURAL' => 'sek',
+                'MIN_PLURAL' => 'min',
+                'HR_PLURAL' => 'hod',
+                'WK_PLURAL' => 't',
+                'MO_PLURAL' => 'm',
+                'YR_PLURAL' => 'r',
+                'DEC_PLURAL' => 'dek'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Ověření se nezdařilo:</b>',
+                'INVALID_INPUT' => 'Neplatný vstup v',
+                'MISSING_REQUIRED_FIELD' => 'Chybí požadované pole:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'ledna',
+                1 => 'února',
+                2 => 'března',
+                3 => 'dubna',
+                4 => 'května',
+                5 => 'června',
+                6 => 'července',
+                7 => 'srpna',
+                8 => 'září',
+                9 => 'října',
+                10 => 'listopadu',
+                11 => 'prosince'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Pondělí',
+                1 => 'Úterý',
+                2 => 'Středa',
+                3 => 'Čtvrtek',
+                4 => 'Pátek',
+                5 => 'Sobota',
+                6 => 'Neděle'
+            ]
+        ],
+        'pl' => [
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formularz został odrzucony. Jedno lub więcej pól wymaga wypełnienia.',
+                'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdź czy wszystkie pola zostały wypełnione i wyślij formularz ponownie.',
+                'FILES' => 'Plik przesłany.',
+                'FORM_ALREADY_SUBMITTED' => 'Ten formularz został już wysłany.',
+                'ALLOW_MULTIPLE' => 'Zezwól na więcej niż jeden plik.',
+                'ALLOW_MULTIPLE_HELP' => 'Zezwól na przesłanie więcej niż jednego pliku.',
+                'DESTINATION' => 'Przeznaczenie.',
+                'DESTINATION_HELP' => 'Lokalizacja przesłanego pliku.',
+                'ACCEPT' => 'Zezwól na typ MIME.',
+                'ACCEPT_HELP' => 'Lista wspieranych do przesłania typów MIME.',
+                'ERROR_VALIDATING_CAPTCHA' => 'Błąd walidacji Captcha.',
+                'DATA_SUMMARY' => 'Oto podsumowanie informacji, które do nas napisałeś:',
+                'NO_FORM_DATA' => 'Brak dostępnych danych formularza',
+                'RECAPTCHA' => 'ReCaptcha',
+                'RECAPTCHA_SITE_KEY' => 'Klucz strony',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Tajny klucz',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
+                'GENERAL' => 'Ogólne',
+                'USE_BUILT_IN_CSS' => 'Użyj wbudowanych styli CSS',
+                'FILEUPLOAD_PREVENT_SELF' => 'Nie można użyć "%s" poza stronami.',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nie można przesłać plików %s: %s',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nie można przenieść plików z %s do "%s"',
+                'DROPZONE_CANCEL_UPLOAD' => 'Anuluj przesyłanie',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Czy na pewno chcesz anulować przesyłanie?',
+                'DROPZONE_DEFAULT_MESSAGE' => 'Upuść pliki tutaj lub <strong>kliknij w tym obszarze</strong>',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Twoja przelądarka nie obsługują funkcji przeciągnij i upuść.',
+                'DROPZONE_FALLBACK_TEXT' => 'Proszę użyć zapasowego formularza do przesyłania plików znajdującego się poniżej.',
+                'DROPZONE_FILE_TOO_BIG' => 'Plik jest zbyt duży ({{filesize}}MiB). Maksymalna wielkość pliku to: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Nie można przesłać pliku. Format nie jest obsługiwany.',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nie można przesłać więcej plików.',
+                'DROPZONE_REMOVE_FILE' => 'Usuń plik',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Czy na pewno chcesz usunąć plik?',
+                'DROPZONE_RESPONSE_ERROR' => 'Status serwera {{statusCode}}.',
+                'YES' => 'Tak',
+                'NO' => 'Nie',
+                'REFRESH_PREVENTION' => 'Zapobiegaj odświeżaniu',
+                'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID , aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.'
+            ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Szukaj…',
+                'SEARCH_RESULTS' => 'Wyniki wyszukiwania',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Znaleziono jeden wynik dla frazy <strong>%s</strong>.',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Znaleziono %2$s wyników dla frazy <strong>%1$s</strong>.',
+                'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Fraza musi składać się z minimum %s znaków.'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Błąd',
+                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
+            ],
+            'FRONTMATTER_ERROR_PAGE' => '---
+title: %1$s
+---
+
+# Error: Nieprawidłowy Frontmatter
+
+Path: `%2$s`
+
+**%3$s**
+
+```
+%4$s
+```
+',
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'Nie podano daty',
+                'BAD_DATE' => 'Zła data',
+                'AGO' => 'temu',
+                'FROM_NOW' => 'od teraz',
+                'SECOND' => 'sekunda',
+                'MINUTE' => 'minuta',
+                'HOUR' => 'godzina',
+                'DAY' => 'dzień',
+                'WEEK' => 'tydzień',
+                'MONTH' => 'miesiąc',
+                'YEAR' => 'rok',
+                'DECADE' => 'dekada',
+                'SEC' => 'sek',
+                'MIN' => 'min',
+                'HR' => 'godz',
+                'WK' => 'tydz',
+                'MO' => 'm-c',
+                'YR' => 'rok',
+                'DEC' => 'dekada',
+                'SECOND_PLURAL' => 'sekund',
+                'MINUTE_PLURAL' => 'minut',
+                'HOUR_PLURAL' => 'godzin',
+                'DAY_PLURAL' => 'dni',
+                'WEEK_PLURAL' => 'tygodnie',
+                'MONTH_PLURAL' => 'miesięcy',
+                'YEAR_PLURAL' => 'lat',
+                'DECADE_PLURAL' => 'dekad',
+                'SEC_PLURAL' => 'sek',
+                'MIN_PLURAL' => 'min',
+                'HR_PLURAL' => 'godz',
+                'WK_PLURAL' => 'tyg',
+                'MO_PLURAL' => 'm-ce',
+                'YR_PLURAL' => 'lat',
+                'DEC_PLURAL' => 'dekad'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Weryfikacja nie powiodła się:</b>',
+                'INVALID_INPUT' => 'Nieprawidłowe dane wejściowe',
+                'MISSING_REQUIRED_FIELD' => 'Opuszczono wymagane pole:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'Styczeń',
+                1 => 'Luty',
+                2 => 'Marzec',
+                3 => 'Kwiecień',
+                4 => 'Maj',
+                5 => 'Czerwiec',
+                6 => 'Lipiec',
+                7 => 'Sierpień',
+                8 => 'Wrzesień',
+                9 => 'Październik',
+                10 => 'Listopad',
+                11 => 'Grudzień'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Poniedziałek',
+                1 => 'Wtorek',
+                2 => 'Środa',
+                3 => 'Czwartek',
+                4 => 'Piątek',
+                5 => 'Sobota',
+                6 => 'Niedziela'
             ]
         ],
         'nl' => [
@@ -2709,6 +2519,18 @@ Caminho: `%2$s`
                 6 => 'Domingo'
             ]
         ],
+        'zh' => [
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => '搜索 …',
+                'SEARCH_RESULTS' => '搜索结果',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => '查询: <strong>%s</strong> 找到 1 个结果',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => '查询: <strong>%s</strong> 找到 %s 个结果'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => '错误',
+                'ERROR_MESSAGE' => '呃，似乎这个页面不存在。'
+            ]
+        ],
         'ja' => [
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => '検索する …',
@@ -2894,6 +2716,100 @@ Path: `%2$s`
                 6 => 'Söndag'
             ]
         ],
+        'da' => [
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Søg …',
+                'SEARCH_RESULTS' => 'Søgeresultat',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Søgning: <strong>%s</strong> fandt et resultat',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Søgning: <strong>%s</strong> fandt %s resultater'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Fejl',
+                'ERROR_MESSAGE' => 'Ups. Det ser ud til at siden ikke eksisterer.'
+            ],
+            'PLUGIN_EMAIL' => [
+                'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Konfigurere venligst en \'til\' email adresse i Email Plugin indstillingerne eller her i formularen',
+                'PLEASE_CONFIGURE_A_FROM_ADDRESS' => 'Konfigurere venligst en \'fra\' email adresse i Email Plugin indstillingerne eller her i formularen'
+            ],
+            'FRONTMATTER_ERROR_PAGE' => '---
+Titel: %1$s
+---
+
+# Fejl: Ugyldigt frontmatter
+
+Sti: `%2$s`
+
+**%3$s**
+
+```
+%4$s
+```
+',
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'Ingen dato angivet',
+                'BAD_DATE' => 'Ugyldig dato',
+                'AGO' => 'siden',
+                'FROM_NOW' => 'fra nu',
+                'SECOND' => 'sekund',
+                'MINUTE' => 'minut',
+                'HOUR' => 'time',
+                'DAY' => 'dag',
+                'WEEK' => 'uge',
+                'MONTH' => 'måned',
+                'YEAR' => 'år',
+                'DECADE' => 'årti',
+                'SEC' => 'sek',
+                'MIN' => 'min',
+                'HR' => 't',
+                'WK' => 'u',
+                'MO' => 'md',
+                'YR' => 'år',
+                'DEC' => 'årti',
+                'SECOND_PLURAL' => 'sekunder',
+                'MINUTE_PLURAL' => 'minutter',
+                'HOUR_PLURAL' => 'timer',
+                'DAY_PLURAL' => 'dage',
+                'WEEK_PLURAL' => 'uger',
+                'MONTH_PLURAL' => 'måneder',
+                'YEAR_PLURAL' => 'år',
+                'DECADE_PLURAL' => 'årtier',
+                'SEC_PLURAL' => 'sek',
+                'MIN_PLURAL' => 'min',
+                'HR_PLURAL' => 'timer',
+                'WK_PLURAL' => 'uger',
+                'MO_PLURAL' => 'mdr',
+                'YR_PLURAL' => 'år',
+                'DEC_PLURAL' => 'årtier'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Validering mislykkedes:</b>',
+                'INVALID_INPUT' => 'Ugyldigt input i',
+                'MISSING_REQUIRED_FIELD' => 'Mangler obligatorisk felt:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'Januar',
+                1 => 'Februar',
+                2 => 'Marts',
+                3 => 'April',
+                4 => 'Maj',
+                5 => 'Juni',
+                6 => 'Juli',
+                7 => 'August',
+                8 => 'September',
+                9 => 'Oktober',
+                10 => 'November',
+                11 => 'December'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Mandag',
+                1 => 'Tirsdag',
+                2 => 'Onsdag',
+                3 => 'Torsdag',
+                4 => 'Fredag',
+                5 => 'Lørdag',
+                6 => 'Søndag'
+            ]
+        ],
         'kk' => [
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'іздеу …',
@@ -2901,6 +2817,90 @@ Path: `%2$s`
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Сұраныс бойынша: <strong>%s</strong> табылды 1',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Сұраныс бойынша: <strong>%s</strong> табылды %s',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Кемінде %s таңба қосу'
+            ]
+        ],
+        'ca' => [
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Error',
+                'ERROR_MESSAGE' => 'Ups. Sembla que aquesta pàgina no existeix.'
+            ],
+            'FRONTMATTER_ERROR_PAGE' => '---
+title: %1$s
+---
+
+# S\'ha produït un error: Frontmatter invàlid
+
+Ruta: `%2$s`
+
+**%3$s**
+
+```
+%4$s
+```
+',
+            'NICETIME' => [
+                'NO_DATE_PROVIDED' => 'No s\'ha proporcionat data',
+                'BAD_DATE' => 'Data invàlida',
+                'AGO' => 'abans',
+                'FROM_NOW' => 'des d\'ara',
+                'SECOND' => 'segon',
+                'MINUTE' => 'minut',
+                'HOUR' => 'hora',
+                'DAY' => 'dia',
+                'WEEK' => 'setmana',
+                'MONTH' => 'mes',
+                'YEAR' => 'any',
+                'DECADE' => 'dècada',
+                'SEC' => 's',
+                'MIN' => 'min',
+                'HR' => 'h',
+                'WK' => 'setm.',
+                'MO' => 'm.',
+                'YR' => 'a.',
+                'DEC' => 'dèc.',
+                'SECOND_PLURAL' => 'segons',
+                'MINUTE_PLURAL' => 'minuts',
+                'HOUR_PLURAL' => 'hores',
+                'DAY_PLURAL' => 'dies',
+                'WEEK_PLURAL' => 'setmanes',
+                'MONTH_PLURAL' => 'mesos',
+                'YEAR_PLURAL' => 'anys',
+                'DECADE_PLURAL' => 'dècades',
+                'SEC_PLURAL' => 's',
+                'MIN_PLURAL' => 'min',
+                'HR_PLURAL' => 'h',
+                'WK_PLURAL' => 'setm.',
+                'MO_PLURAL' => 'mesos',
+                'YR_PLURAL' => 'anys',
+                'DEC_PLURAL' => 'dèc.'
+            ],
+            'FORM' => [
+                'VALIDATION_FAIL' => '<b>Ha fallat la validació:</b>',
+                'INVALID_INPUT' => 'Entrada no vàlida a',
+                'MISSING_REQUIRED_FIELD' => 'Falta camp obligatori:'
+            ],
+            'MONTHS_OF_THE_YEAR' => [
+                0 => 'Gener',
+                1 => 'Febrer',
+                2 => 'Març',
+                3 => 'Abril',
+                4 => 'Maig',
+                5 => 'Juny',
+                6 => 'Juliol',
+                7 => 'Agost',
+                8 => 'Setembre',
+                9 => 'Octubre',
+                10 => 'Novembre',
+                11 => 'Desembre'
+            ],
+            'DAYS_OF_THE_WEEK' => [
+                0 => 'Dilluns',
+                1 => 'Dimarts',
+                2 => 'Dimecres',
+                3 => 'Dijous',
+                4 => 'Divendres',
+                5 => 'Dissabte',
+                6 => 'Diumenge'
             ]
         ],
         'ar' => [
@@ -3546,7 +3546,7 @@ Path: `%2$s`
                 6 => 'Chủ Nhật'
             ]
         ],
-        'checksum' => '5c3aac7e7a9581770937455019885596',
-        'timestamp' => 1566166137
+        'checksum' => 'c42ec5092ea319972a62acf086f008ec',
+        'timestamp' => 1592642572
     ]
 ];

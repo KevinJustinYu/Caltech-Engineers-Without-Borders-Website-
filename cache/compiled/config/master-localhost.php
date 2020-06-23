@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1592452472,
-    'checksum' => '701746b4e00a1557af5968908171c37e',
+    'timestamp' => 1592642806,
+    'checksum' => 'e9b68f657a70dc6713ac13c4abb8081c',
     'files' => [
         'user/config' => [
             'plugins/email' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1592452400
+                'modified' => 1592642800
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -592,7 +592,7 @@ return [
             'author' => [
                 'name' => 'Engineers Without Borders',
                 'email' => 'ewb@caltech.edu',
-                'copyright' => 'Copyright 2019. All Rights Reserved.'
+                'copyright' => 'Copyright 2020. All Rights Reserved.'
             ],
             'taxonomies' => [
                 0 => 'category',
@@ -620,6 +620,10 @@ return [
                 0 => [
                     'url' => 'https://www.facebook.com/ewbcit',
                     'icon' => 'facebook'
+                ],
+                1 => [
+                    'url' => 'https://www.instagram.com/ewbcit/',
+                    'icon' => 'instagram'
                 ]
             ],
             'contact' => [
@@ -690,7 +694,7 @@ return [
                 'description' => 'EWB-Caltech is a university chapter of Engineers Without Borders-USA that designs and implements sustainable engineering projects that address pressing needs within underprivileged communities.',
                 'contact_title' => 'Contact Info',
                 'links_title' => 'Quick Links',
-                'copyright_text' => 'Copyright 2019. All Rights Reserved.'
+                'copyright_text' => 'Copyright 2020. All Rights Reserved.'
             ]
         ],
         'streams' => [

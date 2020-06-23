@@ -2,7 +2,7 @@
 $module-bg:        #EEEEEE;
 
 // styling
-.team {
+:global(.team) {
     background: $module-bg;
     padding: 4rem 0;
     text-align: center;

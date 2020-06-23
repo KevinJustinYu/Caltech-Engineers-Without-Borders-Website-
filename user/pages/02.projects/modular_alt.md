@@ -13,5 +13,3 @@ content:
             - _projects
             - _bottom
 ---
-
-

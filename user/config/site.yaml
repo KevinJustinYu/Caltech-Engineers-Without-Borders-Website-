@@ -2,15 +2,17 @@ title: EWB Caltech
 author:
   name: Engineers Without Borders                      # Default author name
   email: 'ewb@caltech.edu'                   # Default author email
-  copyright: "Copyright 2019. All Rights Reserved."
+  copyright: "Copyright 2020. All Rights Reserved."
 social:
   - url: 'https://www.facebook.com/ewbcit'
     icon: 'facebook'
+  - url: 'https://www.instagram.com/ewbcit/'
+    icon: 'instagram'
 contact:
   address:
     - line: "1200 E California Blvd"
     - line: "Pasadena, CA"
-    - line: "United States" 
+    - line: "United States"
 othermenu:
   - text: "About"
     url: "about"
@@ -28,9 +30,9 @@ quicklinks:
   - text: "Join"
     url: "base_url:join"
   - text: "Donate"
-    url: "base_url:donate"   
+    url: "base_url:donate"
   - text: "Contact Us"
-    url: "base_url:contact"          
+    url: "base_url:contact"
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
@@ -48,7 +50,7 @@ header_options:
   autoslide: 'false'                        # Auto slideshow mode
   autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
   interval: '2000'                          # The interval between each slide (Interval in millisecond)
-  loop: 'false'                             # Infinite slideshow             
+  loop: 'false'                             # Infinite slideshow
   transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
   itemsForSlide: '0'                        # Wrap each 'n' item
   touch: 'true'                             # Set a native slide for touch device
@@ -60,7 +62,5 @@ footer:
     links_title: "Quick Links"
     # newsletter_title: "Subscribe To Mailing List"
     # newsletter_description: "Join the mailing list to keep updated on club announcements."
-    copyright_text: "Copyright 2019. All Rights Reserved."
+    copyright_text: "Copyright 2020. All Rights Reserved."
     # feedburner: ""   # Your feedburner id for Newsletter footer modul
-
-

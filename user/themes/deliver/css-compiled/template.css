@@ -880,7 +880,7 @@ td {
     .list-item .list-blog-header img {
       display: block;
       margin-top: 1rem;
-      border-radius: 0; }
+      border-radius: 2; }
   .list-item .list-blog-date, .list-item .list-blog-author {
     text-align: center;
     background-color: rgba(101, 97, 97, 0.1);
@@ -906,14 +906,17 @@ td {
   font-size: 1.2rem; }
 
 .tags {
-  margin: 0;
-  padding: 0;
-  display: inline;
-  background-color: rgba(101, 97, 97, 0.1);
-  padding: 0.7rem 1rem;
+  margin-top: 1rem;
+  margin-left: 0rem;
+  margin-right: 0.5rem;
   margin-bottom: 0.2rem;
+  display: block;
+  background-color: rgba(101, 97, 97, 0.1);
+  padding: 0.5rem 0rem 0.5rem 1rem;
   list-style: none;
-  text-align: center; }
+  text-align: left;
+  width: 100%;
+  clear: both; }
   .tags li {
     display: inline-block;
     font-size: 1rem;
@@ -1502,11 +1505,11 @@ ul.pagination {
     text-align: left;
     padding-top: 2rem; }
     .team .members .member {
-      display: inline-block;
+      display: block;
       float: left;
-      width: 22%;
+      width: 20%;
       margin: 0 1rem;
-      margin-bottom: 2rem; }
+      margin-bottom: 0rem; }
       @media only all and (max-width: 47.938em) {
         .team .members .member {
           display: block;
