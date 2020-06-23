@@ -1486,8 +1486,8 @@ ul.pagination {
       .callout .pricing-container .pricing-item sup {
         font-size: 2rem; }
 
-.team {
-  background: #AAAAAA;
+:global(.team) {
+  background: #AEAEAE;
   padding: 4rem 0;
   text-align: center; }
   .team:after {
