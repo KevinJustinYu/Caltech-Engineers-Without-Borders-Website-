@@ -18,7 +18,6 @@ members:
       info: "Chemical Engineering '22"
     - member:
       name: Abigail Jiang
-      image: Abigail.jpg
       title: Education and Outreach
       info: "Materials Science '23"
     - member:
