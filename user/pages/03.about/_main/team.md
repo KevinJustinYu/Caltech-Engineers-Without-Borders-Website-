@@ -23,7 +23,6 @@ members:
       info: "Materials Science '23"
     - member:
       name: Jack Nguyen
-      image: Jack2.jpg
       title: Liason
       info: "Chemistry and Biology '22"
     - member:
