@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/hannahfan/Documents/MAMP Websites/Caltech-Engineers-Without-Borders-Website-/user/config/site.yaml',
-    'modified' => 1592642800,
+    'modified' => 1593311861,
     'data' => [
         'title' => 'EWB Caltech',
         'author' => [
@@ -39,10 +39,6 @@ return [
                 'url' => 'about'
             ],
             1 => [
-                'text' => 'Privacy Policy',
-                'url' => '#'
-            ],
-            2 => [
                 'text' => 'Contact',
                 'url' => 'contact'
             ]

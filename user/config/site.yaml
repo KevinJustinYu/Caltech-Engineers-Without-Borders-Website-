@@ -16,7 +16,6 @@ contact:
 othermenu:
   - text: "About"
     url: "about"
-  - text: "Privacy Policy"
     url: "#"
   - text: "Contact"
     url: "contact"

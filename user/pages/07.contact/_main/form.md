@@ -9,8 +9,7 @@ process:
 
 1200 E California Blvd <br />
 Pasadena, CA <br />
-MSC 366 <br />
+MSC 341 <br />
 
 #### Contact Information
 **Email:**  		 		ewb@caltech.edu <br />
-
